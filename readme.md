@@ -19,3 +19,5 @@ E publique com:
 ```
 mkdocs gh-deploy
 ```
+
+Observe que o comando acima serve somente para publicar o site. Não esqueca de salvar suas alterações nos arquivos fonte e enviar para o GitHub!

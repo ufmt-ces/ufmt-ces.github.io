@@ -1,6 +1,12 @@
 # Bem vindo ao MkDocs
 
-Para documentação completa visite [mkdocs.org](https://www.mkdocs.org).
+Basicamente as alterações são feitas nos arquivos *.md, usando a [sintaxe Markdown](https://daringfireball.net/projects/markdown/syntax).
+
+Isso é 'compilado' pelo Mkdocs em arquivos estaticos e são esses arquivos estáticos que serão servidos pelo servidor.
+
+[Aqui](markdowncheatsheet.md) tem uma versão resumida dos coamndos mais utilizados.
+
+## Utilização
 
 Para utilizar, instale o Python e depois e execute no terminal:
 
@@ -35,7 +41,7 @@ Para adicionar um menu de navegação no tipo da página, edite o arquivo `mkdoc
         - Inicio: index.md
         - Sobre: sobre.md
 
-## Customização
+## Customização do estilo
 
 Para customizar o CSS basta editar o arquivo [extra.css](stylesheets/extra.css).
 A paleta de cores deve seguir [esse formato](https://squidfunk.github.io/mkdocs-material/getting-started/#color-palette) e usar as [variáveis do governo](http://dsgov.estaleiro.serpro.gov.br/ds/fundamentos-visuais/cores).
