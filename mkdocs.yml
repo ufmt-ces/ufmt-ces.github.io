@@ -1,0 +1,13 @@
+site_name: CES - Wiki
+nav:
+  - Dúvidas Frequentes: index.md
+  - Sobre: sobre.md
+theme:
+  name: material
+  language: pt
+  logo: images/logo_vetor_fundo_branco_recortado.png
+  favicon: images/favicon.png
+  font:
+    text: Raleway
+extra_css:
+  - stylesheets/extra.css
