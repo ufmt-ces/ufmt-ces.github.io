@@ -1,0 +1,19 @@
+:root {
+    /* Primary color shades */
+    --md-primary-fg-color:               #0C326F;
+    --md-default-fg-color--light:        #1351b4;
+
+    --md-text-link-color:                  #1351B4;
+}
+
+.md-typeset h1 {
+    font-weight: 400;
+}
+
+.md-typeset h2 {
+    font-weight: 400;
+}
+
+p a {
+    text-decoration: underline; 
+}
