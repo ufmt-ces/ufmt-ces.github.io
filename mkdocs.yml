@@ -1,6 +1,14 @@
 site_name: CES - Wiki
+site_author: UFMT - Coordenação de Engenharia de Software
+copyright: Copyright &copy; 2020 - UFMT
+repo_url: https://github.com/ufmt-ces/ufmt-ces.github.io
+repo_name: GitHub
 nav:
-  - Dúvidas Frequentes: index.md
+  - Início: index.md
+  - Dúvidas Frequentes:
+    - Geral: duvidas/index.md
+    - Discente: duvidas/discente.md
+    - Servidor: duvidas/servidor.md
   - Sobre: sobre.md
 theme:
   name: material
