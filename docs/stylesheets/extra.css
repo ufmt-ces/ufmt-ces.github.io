@@ -21,3 +21,7 @@ p a {
 .md-content__inner a {
     text-decoration: underline; 
 }
+
+.md-typeset .admonition {
+    font-size: .8rem;
+}

@@ -41,3 +41,11 @@ Para realizar o trancamento acesse o [Portal da UFMT](https://www.ufmt.br) > Est
 > Como desisto do meu curso?
 
 Para realizar a desistência do curso acesse o [Portal da UFMT](https://www.ufmt.br) > Estudante > Requerimentos > Desistência de curso.
+
+> Como faço meu requerimento de matrícula em um novo semestre?
+
+...
+
+> Como acompanho meu requerimento de matrícula em um novo semestre?
+
+Acesse as instruções [aqui](../siga/conferenciamatricula.md)

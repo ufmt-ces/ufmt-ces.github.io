@@ -68,9 +68,12 @@ Parabéns, agora você esta apto(a) a acessar o Portal de Sistemas Integrados, p
 
 ## 3 - Cadastro de Novo Usuário
 
+!!! warning "ATENÇÃO"
+    O cadastro de novo usuário é apenas para servidores (docentes ou técnicos administrativos). Os discentes tem o usuário importado automaticamente quando são registrados na UFMT.
+
 Para criar um usuário(a), basta acessar o endereço <https://sistemas.ufmt.br/ufmt.sia/Usuario/Cadastro>
 
-Será apresentada uma tela conforme mostra a Figura 9. Digite seu CPF, seu SIAPE de aposentado, seu e-mail pessoal e instransferível e clique no botão 'Cadastrar'.
+Será apresentada uma tela conforme mostra a Figura 9. Digite seu CPF, seu SIAPE, seu e-mail pessoal e instransferível e clique no botão 'Cadastrar'.
 
 > ![Tela para cadastro de usuário](images/novousuario-01.png "Tela para cadastro de novo usuário com CPF, siape e e-mail para contato")
 > Figura 9 - Tela para cadastro de novo usuário
@@ -103,7 +106,7 @@ Parabéns, agora você esta apto(a) a acessar o Portal de Sistemas Integrados, p
 
 ## 4 - Solicitar atualização do e-mail
 
-Para solicitar a atualização do seu e-mail no nosso cadastro, envie uma mensagem para o endereço <ces@ufmt.br> informando seu nome completo, CPF, SIAPE e e-mail pessoal.
+Para solicitar a atualização do seu e-mail no nosso cadastro, envie uma mensagem para o endereço <ces@ufmt.br> informando seu nome completo, CPF e o novo e-mail pessoal para cadastro.
 Você também deve anexar na mensagem um documento válido com foto e um comprovante de endereço residencial.
 
 ## 5 - Contato
