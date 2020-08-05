@@ -17,3 +17,7 @@
 p a {
     text-decoration: underline; 
 }
+
+.md-content__inner a {
+    text-decoration: underline; 
+}
