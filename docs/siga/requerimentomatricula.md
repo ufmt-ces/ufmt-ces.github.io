@@ -15,6 +15,8 @@ Resumidamente, o **regime seriado** consiste na organização das disciplinas em
 
 Já no **regime de crédito** os alunos matriculam-se em disciplinas de diferentes semestres desde que sejam observados os pré-requisitos, co-requisitos, carga horária mínima necessária, etc conforme apresentado na estrutura curricular do curso.
 
+Você consegue descobrir o regime do seu curso acessando a [lista de cursos](https://ufmt.br/ensino/busca?text=&modality=PRESENCIAL&type=&campus=&period=) no Portal da UFMT e clicando no nome do seu curso para expandir e exibir os detalhes.
+
 Para sanar maiores dúvidas sobre o regime e a estrutura do seu curso, por favor procure a sua coordenação. Os dados de contato podem ser encontrados no endereço <https://www.ufmt.br/telefones>.
 
 ## Requerimento de matrícula e ajuste de matrícula

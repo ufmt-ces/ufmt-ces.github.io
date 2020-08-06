@@ -8,6 +8,24 @@ Se você deseja obter documentos acadêmicos emitidos pelo site, como o históri
 
 Verifique se seu usuário está valido acessando o [Portal de Sistemas Integrados](https://sistemas.ufmt.br/ufmt.portalsistemas).
 
+## Flexibilização
+
+Você pode obter uma informação completa no endereço [www.ufmt.br/flexibiliza](https://www.ufmt.br/flexibiliza).
+
+> Como calouro/caloura, como escolho as disciplinas flexibilizadas que quero cursar?
+
+Você deve acessar o Protocolo Virtual do Aluno ([Portal de Sistemas Integrados](https://sistemas.ufmt.br/ufmt.portalsistemas) > Protocolo Virtual do Aluno) no período definido no calendário acadêmico e realizar. Observe que seu pedido será analisado e homologado pela coordenação Somente depois que você terá a disciplina no histórico.
+
+> Como veterano, como escolho as disciplinas flexibilizadas que quero cursar?
+
+Primeiro, você deve saber se seu curso é de regime seriado ou se é de regime crédito.
+
+Você consegue descobrir isso acessando a [lista de cursos](https://ufmt.br/ensino/busca?text=&modality=PRESENCIAL&type=&campus=&period=) no Portal da UFMT e clicando no nome do seu curso para expandir e exibir os detalhes.
+
+Se for de regime crédito, você deve acessar o endereço [para Ajuste de matrícula](http://siga.ufmt.br/www-siga/htmldelphi/loginAjusteGraduacao/login.htm).
+
+
+
 ## Sou calouro/caloura
 
 > Quando receberei meu RGA?
