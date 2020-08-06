@@ -44,8 +44,12 @@ Para realizar a desistência do curso acesse o [Portal da UFMT](https://www.ufmt
 
 > Como faço meu requerimento de matrícula em um novo semestre?
 
-...
+Acesse as instruções [aqui](../siga/requerimentomatricula.md)
 
 > Como acompanho meu requerimento de matrícula em um novo semestre?
 
 Acesse as instruções [aqui](../siga/conferenciamatricula.md)
+
+> Perdi o prazo para acessar o requerimento de matrícula e o ajuste de matrícula
+
+Realize sua renovação via protocolo virtual do aluno, que pode ser acessado em [Portal de Sistemas Integrados](https://sistemas.ufmt.br/ufmt.portalsistemas) > Protocolo Virtual do Aluno.

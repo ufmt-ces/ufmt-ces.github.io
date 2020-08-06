@@ -1,41 +1,49 @@
-# Conferindo o resultado da matrícula
+# Conferindo o resultado do requerimento ou ajuste de matrícula
 
-O requerimento de matrícula ou o ajuste do aluno passam por um processamento.
-A matrícula realizada é um pedido de matrícula em disciplina, que vai ser processado conforme:
+É necessário observar que quando o discente faz o requerimento ou o ajuste de matricula, **a matrícula no período não está garantida**.
+Apos a solicitação é realizado o processamento, que considera:
 
 * o regime do curso (crédito ou seriado)
 * a oferta de horários das disciplinas no período
 * a estrutura do curso
-* e o histórico do aluno
+* e o histórico do aluno (em específico o coeficiente)
 
-Para curso ofertado em regime seriado a **Resolução CONSEPE nº 14/99** estabelece as diretrizes e para curso ofertado em regime de créditos as *Resoluções CONSEPE nº 52/94 e 32/99* contém as regulamentações.
+A **Resolução CONSEPE nº 14/1999** estabelece as diretrizes para os cursos de regime seriado e as **Resoluções CONSEPE nº 52/1994 e 32/1999** contém as regulamentações para os curso de regime em créditos.
 
-Conhecer a estrutura e o regime do curso é essencial para o entendimento da matrícula. Nos cursos seriados a matrícula segue conforme as séries, sequencialmente e sucessivamente, e reprovações retêm ou deixam o aluno em dependência na série. Os cursos créditos seguem as regras de pré-requisito, co-requisito, carga horária mínima, etc.
+Conhecer a estrutura e o regime do seu curso é essencial para o entendimento da matrícula.
+Nos cursos seriados a matrícula segue conforme as séries, sequencialmente e sucessivamente, e reprovações retêm ou deixam o aluno em dependência na série.
+Os cursos créditos seguem as regras de pré-requisito, co-requisito, carga horária mínima, etc.
 
 Resumidamente, o **regime seriado** consiste na organização das disciplinas em séries de tal forma que as disciplinas de uma série sejam 'preparatórias' para as das séries subsequentes. Só ascenderão à série seguinte os alunos que tenham sido reprovados em no máximo duas disciplinas. Aqueles que não atenderem essa condição permanecerão retidos na série.
 
-No **regime de crédito** os alunos matriculam-se em disciplinas de diferentes semestres desde que sejam observados os pré-requisitos, co-requisitos, carga horária mínima necessária, etc conforme apresentado na estrutura curricular do curso. Para sanar as dúvidas sobre o regime e estrutura do curso, favor procure a sua coordenação.
+Já no **regime de crédito** os alunos matriculam-se em disciplinas de diferentes semestres desde que sejam observados os pré-requisitos, co-requisitos, carga horária mínima necessária, etc conforme apresentado na estrutura curricular do curso.
 
-O restante das informações necessárias estão disponíveis no SIGA (sistema acadêmico), acessado através do Portal de Sistemas Integrados no site da UFMT e no aplicativo.
+Para sanar maiores dúvidas sobre o regime e a estrutura do seu curso, por favor procure a sua coordenação. Os dados de contato podem ser encontrados no endereço <https://www.ufmt.br/telefones>.
+
+O restante das informações necessárias estão disponíveis no SIGA (sistema acadêmico), acessível através do [Portal de Sistemas Integrados](https://sistemas.ufmt.br/ufmt.portalsistemas) e no aplicativo da UFMT, disponível para [Android](https://play.google.com/store/apps/details?id=br.ufmt.sti.app) ou [Iphone](https://apps.apple.com/br/app/ufmt/id1438762579).
 
 ## SIGA
 
 ### Estrutura do curso
 
-O sistema SIGA apresenta as informações necessárias pro aluno conhecer sua situação acadêmica.
-Em **Cursos > Estrutura Geral** é possível conhecer o regime e a estrutura do curso:
+O sistema SIGA apresenta as informações necessárias para o aluno conhecer sua situação acadêmica.
+Em **Cursos > Estrutura Geral** é possível conhecer o regime e a estrutura do curso.
 
 ![Estrutura do curso](../images/siga_estrutura_curso.png)
 
 ### Fluxograma
 
-Outro recurso importante para o entendimento da situação acadêmica é o **fluxograma**. O fluxograma do aluno demonstra com uma representação gráfica detalhes sobre sua vida acadêmica. Através do caminho **Alunos > Fluxograma** é possível obter informações sobre a série e as disciplinas retidas para os cursos seriados ou  a situação dos pré-requisitos para os cursos créditos:
+Outro recurso importante para o entendimento da situação acadêmica é o fluxograma. O fluxograma do aluno demonstra com uma representação gráfica detalhes sobre a vida acadêmica. Através do caminho **Alunos > Fluxograma** é possível obter informações sobre a série e as disciplinas retidas para os cursos seriados ou a situação dos pré-requisitos para os cursos créditos.
 
 ![Fluxograma](../images/siga_fluxograma.png)
 
 ### Histórico Escolar e Planilha de Horário
 
-Outros recursos importantes para os alunos são o Histórico Escolar e a Planilha de Horários. No histórico escolar constam as informações sobre as reprovações, aprovações, aproveitamento de estudos, as disciplinas cursadas como atividade complementar, total de carga horária cursada, coeficiente de rendimento, etc. O histórico encontra-se em **Documentos > Histórico Escolar** e também no **aplicativo**. No menu **Documentos** encontram-se também as planilhas de horário. A planilha de horário com recusas (**Documentos > Planilha de Horário c/ Recusas**) informa o resultado da matrícula (com o motivo da recusa do pedido de matrícula) além dos horários das disciplinas matriculadas no período:
+Outros recursos importantes para os alunos são o Histórico Escolar e a Planilha de Horários. Ambos os documentos também estão disponíveis no aplicativo da UFMT.
+
+No histórico escolar (**Documentos > Histórico Escolar**) constam as informações sobre as reprovações, aprovações, aproveitamento de estudos, as disciplinas cursadas como atividade complementar, o total de carga horária cursada, o coeficiente de rendimento, etc.
+
+Na planilha de horário (**Documentos > Planilha de horário**) são informados os horários das disciplinas matriculadas no período; na planilha de horário com recusas (**Documentos > Planilha de Horário c/ Recusas**) é informado adicionalmente o resultado do pedido de matrícula realizado no período acadêmico pelo discente, com o motivo da recusa.
 
 ![Planila de horários com recursas](../images/siga_historico.png)
 
