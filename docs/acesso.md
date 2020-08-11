@@ -108,15 +108,3 @@ Parabéns, agora você esta apto(a) a acessar o Portal de Sistemas Integrados, p
 
 Para solicitar a atualização do seu e-mail no nosso cadastro, envie uma mensagem para o endereço <ces@ufmt.br> informando seu nome completo, CPF e o novo e-mail pessoal para cadastro.
 Você também deve anexar na mensagem um documento válido com foto e um comprovante de endereço residencial.
-
-## 5 - Contato
-
-**E-mail**: ces@ufmt.br
-
-**Call Center**: (65) 3615 - 8020
-
-**Funcionamento**: 24/07/2020 *(horário de Cuiabá)*
-
-* 7h30min as 11h30min
-* 13h30min as 17h30min
-* 18h30min as 22h30min
