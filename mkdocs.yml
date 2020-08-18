@@ -8,7 +8,8 @@ nav:
   - Dúvidas Frequentes:
     - Geral: duvidas/index.md
     - Discente: duvidas/discente.md
-    - Servidor: duvidas/servidor.md
+    - Docente: duvidas/docente.md
+    - Servidor TAE: duvidas/servidor.md
   - Sobre: sobre.md
 theme:
   name: material
