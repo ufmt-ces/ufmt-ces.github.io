@@ -46,7 +46,7 @@ Entre em contato com a Gerência de Protocolo Central pelo e-mail <protocolocent
 > Quero ter acesso aos sistemas da UFMT como responsável
 
 Primeiro, entre em contato com a Secretaria de Gestão de Pessoas para ser registrado como responsável no Siscofre.
-Feita as devidas alterações nesse sistema, o novo responsável terá acesso imediato aos seguintes sistemas:
+Feita as devidas alterações nesse sistema, você terá acesso imediato aos seguintes sistemas:
 
 -   SISCOFRE - Sistema de Controle de Frequência
 -   SIEX - Sistema de Extensão
@@ -58,8 +58,8 @@ Para ter acesso ao SGBP - Sistema de Gerênciamento de Bens Patrimôniais - entr
 
 Para ter acesso ao SAD - Sistema de Avaliação de Desemnho - entre em contato com a Comissão de Avaliação de Desempenho e Estágio Probatório.
 
-Para ter acesso ao SISREQ - Sistema de Requisição de Materiais - entre em contato com <lidiane@ufmt.br> ou
+Para ter acesso ao SISREQ - Sistema de Requisição de Materiais - entre em contato com <lidiane@ufmt.br> ou <andersonmartins@ufmt.br>.
 
-> Quero acessar o SIGA/AVA/SGE como coordenação de curso/chefe de departamento/direção de instituto ou faculdade
+> Quero acessar o SIGA/AVA/SGE como coordenação de curso
 
 Tanto a Secretaria de Gestão de Pessoas (SGP) quanto a direção do instituto (via Sistema de Gerenciamento de Encargos) tem a autonomia de alterar as coordenações. Depois de alterada, a nova coordenação terá acesso imediato aos cursos que gerencia no SGE. O acesso ao SIGA e ao AVA serão concedidos depois da alteração em até 24h.
