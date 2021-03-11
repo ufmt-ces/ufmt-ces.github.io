@@ -3,17 +3,18 @@
 Primeiro, certifique-se de ter acesso ao [Portal de Sistemas Integrados](https://sistemas.ufmt.br/ufmt.portalsistemas).
 É através dele que você:
 
-* acessa boa parte dos Sistemas da UFMT, inclusive os acadêmicos como o AVA e as ferramentas para requerimento e ajuste de matrícula
-* pode alterar seu e-mail de contato e dados bancários
-* pode definir sua senha para acessar os aplicativos da UFMT
+-   acessa boa parte dos Sistemas da UFMT, inclusive os acadêmicos como o AVA e as ferramentas para requerimento e ajuste de matrícula
+-   pode alterar seu e-mail de contato e dados bancários
+-   pode definir sua senha para acessar os aplicativos da UFMT
 
 Depois, faça o download dos aplicativos da UFMT, tanto pela Google Play quanto pela App Store.
 Atualmente temos publicados os aplicativos:
 
-* **UFMT**, que permite a emissão de documentos acadêmicos como a planilha de horários e o histórico escolar com validação por QR Code
-* **UFMT - AVA Graduação**, que permite navegar no conteúdo do curso até mesmo offline, reeceber notificações instantâneas de mensagens e outros eventos, ver as notas e mais
+-   **UFMT**, que permite a emissão de documentos acadêmicos como a planilha de horários e o histórico escolar com validação por QR Code
+-   **UFMT - AVA Graduação**, que permite navegar no conteúdo do curso até mesmo offline, reeceber notificações instantâneas de mensagens e outros eventos, ver as notas e mais
 
 ---
+
 ## Dúvidas Frequentes
 
 > Como acesso o Portal de Sistemas Integrados?
@@ -29,12 +30,12 @@ Basta realizar a recuperação de senha. [Aqui](../../acesso/#2-recuperacao-de-s
 O acesso ao AVA deve ser feito obrigatoriamente via Portal de Sistemas Integrados.
 Então você deve acessar e se autenticar no Portal de Sistemas Integrados, buscar por 'AVA' e clicar no resultado 'AVA - Ambiente Virtual de Aprendizagem - Graduação'.
 
-> Fiz o requerimento on-line de disciplinas e elas ainda não aparecem no AVA
+> Fiz o requerimento on-line de disciplinas via SIGA e elas ainda não aparecem no AVA
 
 Primeiro, tenha conhecimento que o requerimento não é uma garantia de que você terá as disciplinas solicitadas. Para saber o resultado do seu requerimento, acesse [essa página](../siga/conferenciamatricula.md)
 Depois, se você já notou que a disciplina consta no seu histórico, basta aguardar até 24h para obter as disciplinas no AVA.
 
-> Fiz o ajuste do coordenador e as disciplinas ainda não aparecem no AVA
+> Fiz o ajuste do coordenador via Protocolo Virtual do Aluno e as disciplinas ainda não aparecem no AVA
 
 Se a sua solicitação foi deferida pela coordenação basta aguardar até 24h para obter as disciplinas no AVA.
 
@@ -81,6 +82,7 @@ Se seu curso for de regime crédito, você pode acessar o endereço [para Ajuste
 Encerrado o prazo para o ajuste, você pode acessar o Protocolo Virtual do Aluno (Portal de Sistemas Integrados > Protocolo Virtual do Aluno) no período definido no calendário acadêmico e realizar sua solicitação.
 
 ---
+
 ## Sou calouro/caloura
 
 > Quando receberei meu RGA de Graduação Presencial?
@@ -88,7 +90,7 @@ Encerrado o prazo para o ajuste, você pode acessar o Protocolo Virtual do Aluno
 Primeiro, verifique se você consta na última **lista de ingressantes do período letivo corrente**.
 Acompanhe as publicações pelo Portal da UFMT > [Ingresso](https://www.ufmt.br/unidade/ingresso).
 
-Depois, se você já teve algum vínculo de graduação, certifique-se de ter encerrado o mesmo. 
+Depois, se você já teve algum vínculo de graduação, certifique-se de ter encerrado o mesmo.
 Para realizar a desistência do curso acesse o [Portal da UFMT](https://www.ufmt.br) > Estudante > Requerimentos > Desistência de curso.
 
 Por fim, se seu nome apareceu recentemente na lista ou se você recentemente solicitou o desligamento de um vínculo anterior, basta aguardar a mensagem enviada por e-mail.
@@ -102,21 +104,22 @@ Mas se isso foi uma solicitação da sua coordenação, a única ferramenta disp
 Observe que você só conseguirá acesar no período definido no calendário acadêmico e que seu pedido será analisado e homologado pela coordenação. Somente depois que você terá a disciplina no histórico e no AVA.
 
 ---
+
 ## Sou veterano/veterana
 
 > Como tranco minha matrícula?
 
-Para realizar o trancamento acesse o [Portal da UFMT](https://www.ufmt.br) > Estudante > Requerimentos > Trancamento de Matrícula.
+Você pode realizar o trancamento acessando o Protocolo Virtual do Aluno (Portal de Sistemas Integrados > Protocolo Virtual do Aluno)
 
 > Como desisto do meu curso?
 
 Para realizar a desistência do curso acesse o [Portal da UFMT](https://www.ufmt.br) > Estudante > Requerimentos > Desistência de curso.
 
-> Como faço meu requerimento on-line de matrícula em um novo semestre?
+> Como faço meu requerimento on-line de matrícula pelo SIGA em um novo semestre?
 
 Acesse as instruções [aqui](../siga/requerimentomatricula.md)
 
-> Como acompanho meu requerimento on-line de matrícula em um novo semestre?
+> Como acompanho meu requerimento on-line de matrícula pelo SIGA em um novo semestre?
 
 Acesse as instruções [aqui](../siga/conferenciamatricula.md)
 
@@ -128,4 +131,4 @@ Realize sua renovação via protocolo virtual do aluno, que pode ser acessado em
 
 > Como emito documentos do meu curso, como histórico escolar?
 
-Acesse os aplicativos da UFMT.
+Baixe o aplicativo da UFMT, tanto pela Google Play quanto pela App Store.

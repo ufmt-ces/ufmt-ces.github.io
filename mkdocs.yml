@@ -4,21 +4,20 @@ copyright: Copyright &copy; 2020 - UFMT
 repo_url: https://github.com/ufmt-ces/ufmt-ces.github.io
 repo_name: GitHub
 nav:
-  - Início: index.md
-  - Dúvidas Frequentes:
-    - Geral: duvidas/index.md
-    - Discente: duvidas/discente.md
-    - Docente: duvidas/docente.md
-    - Servidor TAE: duvidas/servidor.md
-  - Sobre: sobre.md
+    - Início: index.md
+    - Dúvidas Frequentes:
+          - Geral: duvidas/index.md
+          - Discente: duvidas/discente.md
+          - Servidor Docente/TAE: duvidas/servidor.md
+    - Sobre: sobre.md
 theme:
-  name: material
-  language: pt
-  logo: images/logo_vetor_fundo_branco_recortado.png
-  favicon: images/favicon.png
-  font:
-    text: Raleway
+    name: material
+    language: pt
+    logo: images/logo_vetor_fundo_branco_recortado.png
+    favicon: images/favicon.png
+    font:
+        text: Raleway
 extra_css:
-  - stylesheets/extra.css
+    - stylesheets/extra.css
 markdown_extensions:
-  - admonition
+    - admonition
