@@ -1,4 +1,4 @@
-# Dúvidas Frequentes
+# Dúvidas Frequentes - Servidores e Funcionários
 
 > Sou servidor(a)/funcionário(a) **com Siape** e quero acessar o Portal de Sistemas mas não tenho senha
 
@@ -37,6 +37,12 @@ Atualmente você pode realizar o ajuste:
     -   adicionando mais de um aluno em uma disciplina do seu curso, via Matriculas > Ajuste > Inclusão de Alunos em Disciplina
 -   pelo **Protocolo Virtual do Aluno** (Portal de Sistemas Integrados > Protocolo Virtual do Aluno), analisando os pedidos realizados pelos e deferindo/indeferindo as solicitações
 
+> Quero acessar o SIGA/AVA/SGE como coordenação de curso
+
+Tanto a Secretaria de Gestão de Pessoas (SGP) quanto a direção do instituto (via Sistema de Gerenciamento de Encargos) tem a autonomia de alterar os responsáveis das unidades, inclusive as do tipo coordenação.
+Quando é feita essa alteração, a pessoa responsável, no caso a nova coordenação, terá acesso imediato aos cursos que estão vinculados à essa coordenação no SGE.
+O acesso ao SIGA e ao AVA para os cursos dessa coordenação serão concedidos depois da alteração em até 24h, de forma automática.
+
 ## Sou o responsável por uma unidade
 
 > Quero ter acesso ao SEI como responsável
@@ -58,8 +64,4 @@ Para ter acesso ao SGBP - Sistema de Gerênciamento de Bens Patrimôniais - entr
 
 Para ter acesso ao SAD - Sistema de Avaliação de Desemnho - entre em contato com a Comissão de Avaliação de Desempenho e Estágio Probatório.
 
-Para ter acesso ao SISREQ - Sistema de Requisição de Materiais - entre em contato com <lidiane@ufmt.br> ou <andersonmartins@ufmt.br>.
-
-> Quero acessar o SIGA/AVA/SGE como coordenação de curso
-
-Tanto a Secretaria de Gestão de Pessoas (SGP) quanto a direção do instituto (via Sistema de Gerenciamento de Encargos) tem a autonomia de alterar as coordenações. Depois de alterada, a nova coordenação terá acesso imediato aos cursos que gerencia no SGE. O acesso ao SIGA e ao AVA serão concedidos depois da alteração em até 24h.
+Para ter acesso ao SISREQ - Sistema de Requisição de Materiais - entre em contato com <lidiane@ufmt.br> ou <anderson.martins@ufmt.br>.

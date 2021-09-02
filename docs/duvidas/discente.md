@@ -7,7 +7,10 @@ Primeiro, certifique-se de ter acesso ao [Portal de Sistemas Integrados](https:/
 -   pode alterar seu e-mail de contato e dados bancários
 -   pode definir sua senha para acessar os aplicativos da UFMT
 
-Depois, faça o download dos aplicativos da UFMT, tanto pela Google Play quanto pela App Store.
+No Portal de Sistemas Integrados você também encontra o **Portal Acadêmico**, local onde você pode visualizar a sua planilha de horários, emitir o histórico com validação por QR Code e o fluxograma do seu curso.
+Com o acesso no Portal de Sistemas Integrados, busque por 'portal acadêmico' e clique no resultado encontrado.
+
+Você também pode fazer o download dos aplicativos da UFMT, tanto pela Google Play quanto pela App Store.
 Atualmente temos publicados os aplicativos:
 
 -   **UFMT**, que permite a emissão de documentos acadêmicos como a planilha de horários e o histórico escolar com validação por QR Code
@@ -16,28 +19,6 @@ Atualmente temos publicados os aplicativos:
 ---
 
 ## Dúvidas Frequentes
-
-> Como acesso o Portal de Sistemas Integrados?
-
-Você deve utilizar seu **CPF** e sua senha.
-
-> Não tenho/Esqueci a senha para acessar o Portal de Sistemas Integrados
-
-Basta realizar a recuperação de senha. [Aqui](../../acesso/#2-recuperacao-de-senha) você tem acesso as instruções.
-
-> Como acesso o AVA - Ambiente Virtual de Aprendizagem?
-
-O acesso ao AVA deve ser feito obrigatoriamente via Portal de Sistemas Integrados.
-Então você deve acessar e se autenticar no Portal de Sistemas Integrados, buscar por 'AVA' e clicar no resultado 'AVA - Ambiente Virtual de Aprendizagem - Graduação'.
-
-> Fiz o requerimento on-line de disciplinas via SIGA e elas ainda não aparecem no AVA
-
-Primeiro, tenha conhecimento que o requerimento não é uma garantia de que você terá as disciplinas solicitadas. Para saber o resultado do seu requerimento, acesse [essa página](../siga/conferenciamatricula.md)
-Depois, se você já notou que a disciplina consta no seu histórico, basta aguardar até 24h para obter as disciplinas no AVA.
-
-> Fiz o ajuste do coordenador via Protocolo Virtual do Aluno e as disciplinas ainda não aparecem no AVA
-
-Se a sua solicitação foi deferida pela coordenação basta aguardar até 24h para obter as disciplinas no AVA.
 
 > Como acesso o SEI
 
@@ -49,37 +30,7 @@ As instruções estão disponíveis em <https://webmail-estudante.ufmt.br> > [Gu
 
 > Com acesso a rede CAF-e, para ter acesso aos Períodicos CAPES ou outros serviços?
 
-Acesse o manual [aqui](https://antigo.ufmt.br/sti/arquivos/9548f0c60539f2263613251d70972f74.pdf).
-
-> Não estou recebendo as mensagens para recuperar a senha do Portal de Sistemas Integrados
-
-Verifique também sua caixa de spam.
-
-> Quero trocar o e-mail para poder recuperar minha senha de acesso ao Portal de Sistemas Integrados
-
-Para solicitar a atualização do seu e-mail no nosso cadastro, envie uma mensagem para o endereço <ces@ufmt.br> informando seu nome completo, CPF e o novo e-mail pessoal para cadastro.
-Você também deve anexar na mensagem um documento válido com foto e um comprovante de endereço residencial.
-
----
-
-## Flexibilização
-
-Você pode obter uma informação completa no endereço [www.ufmt.br/flexibiliza](https://www.ufmt.br/flexibiliza).
-
-> Como calouro/caloura, como escolho as disciplinas flexibilizadas que quero cursar?
-
-Você deve acessar o Protocolo Virtual do Aluno (Portal de Sistemas Integrados > Protocolo Virtual do Aluno) no período definido no calendário acadêmico e realizar. Observe que seu pedido será analisado e homologado pela coordenação. Somente depois que você terá a disciplina no histórico e no AVA.
-
-> Como veterano/veterana, como escolho as disciplinas flexibilizadas que quero cursar?
-
-Primeiro, você deve saber se seu curso é de regime seriado ou se é de regime crédito.
-Você consegue descobrir isso acessando a [lista de cursos](https://ufmt.br/ensino/busca?text=&modality=PRESENCIAL&type=&campus=&period=) no Portal da UFMT e clicando no nome do seu curso para expandir e exibir os detalhes.
-
-Depois, você deve estar atento aos prazos do calendário acadêmico, acessível em UFMT > Estudante > Calendário Acadêmico.
-
-Se seu curso for de regime crédito, você pode acessar o endereço [para Ajuste de matrícula](http://siga.ufmt.br/www-siga/htmldelphi/loginAjusteGraduacao/login.htm)
-
-Encerrado o prazo para o ajuste, você pode acessar o Protocolo Virtual do Aluno (Portal de Sistemas Integrados > Protocolo Virtual do Aluno) no período definido no calendário acadêmico e realizar sua solicitação.
+Acesse o manual [aqui](https://docs.sti.ufmt.br/smrt/ajuda/cafe).
 
 ---
 
@@ -113,7 +64,11 @@ Você pode realizar o trancamento acessando o Protocolo Virtual do Aluno (Portal
 
 > Como desisto do meu curso?
 
-Para realizar a desistência do curso acesse o [Portal da UFMT](https://www.ufmt.br) > Estudante > Requerimentos > Desistência de curso.
+Para realizar a desistência do curso acesse o [Portal da UFMT](https://www.ufmt.br) > Estudante > Requerimentos > Desistência de curso, informe seu CPF e clique no link recebido no e-mail.
+
+Certifique-se de realizar a solicitação pelo mesmo local. Ou seja, se você solicitar o desligamento pelo navegador do celular, você deve abrir o link no mesmo navegador.
+
+Após a efetivação do desligamento, entre em contato com o registro escolar do seu campus para a emissão da declaração de desistência.
 
 > Como faço meu requerimento on-line de matrícula pelo SIGA em um novo semestre?
 
@@ -127,8 +82,17 @@ Acesse as instruções [aqui](../siga/conferenciamatricula.md)
 
 Realize sua renovação via protocolo virtual do aluno, que pode ser acessado em [Portal de Sistemas Integrados](https://sistemas.ufmt.br/ufmt.portalsistemas) > Protocolo Virtual do Aluno.
 
+> Fiz o requerimento on-line de disciplinas via SIGA e elas ainda não aparecem no AVA
+
+Primeiro, tenha conhecimento que o requerimento não é uma garantia de que você terá as disciplinas solicitadas. Para saber o resultado do seu requerimento, acesse [essa página](../siga/conferenciamatricula.md)
+Depois, se você já notou que a disciplina consta no seu histórico, basta aguardar até 24h para obter as disciplinas no AVA.
+
+> Fiz o ajuste do coordenador via Protocolo Virtual do Aluno e as disciplinas ainda não aparecem no AVA
+
+Se a sua solicitação foi deferida pela coordenação basta aguardar até 24h para obter as disciplinas no AVA.
+
 ## Sou ex-aluno
 
 > Como emito documentos do meu curso, como histórico escolar?
 
-Baixe o aplicativo da UFMT, tanto pela Google Play quanto pela App Store.
+Acesse o Portal de Sistemas Integradose e busque por 'portal acadêmico' ou baixe o aplicativo da UFMT, tanto pela Google Play quanto pela App Store.
