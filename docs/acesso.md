@@ -42,18 +42,23 @@ Depois de informar o seu CPF e clicar no botão 'Reiniciar senha', você será i
 > ![Tela senha reiniciada com sucesso](images/reiniciosenha-02.png "Tela para recuperação de senha com campo CPF e o botão Reinciar senha com aviso de sucesso")
 > Figura 5 - Tela senha reiniciada com sucesso
 
-Agora verifique seu e-mail (e também a caixa de spam). A mensagem pode levar de 5 a 15min para chegar. Clique no endereço que consta no e-mail recebido, conforme destaca o exemplo na Figura 6.
+Agora verifique seu e-mail. Verifique também a caixa de spam e certifique-se de ter espaço na caixa de entrada.
+A mensagem pode levar de 5 a 15min para chegar. Clique no endereço que consta no e-mail recebido, conforme destaca o exemplo na Figura 6.
 
-**Atenção:** Se passaram mais de 15min, você já checou sua caixa de entrada e a caixa de spam e não recebeu a mensagem da UFMT, provavelmente seu e-mail está desatualizado no nosso cadastro.
-Você pode solicitar a atualização do seu e-mail seguindo as instruções na seção [4 - Solicitar atualização do e-mail](#4-solicitar-atualizacao-do-e-mail).
+!!! warning "Atenção"
+    Se passaram mais de 15min, você já checou sua caixa de entrada e a caixa de spam, se certificou que tem espaço para receber novas mensagens e ainda não recebeu a mensagem da UFMT, provavelmente seu e-mail está desatualizado no nosso cadastro.
+    Você pode solicitar a atualização do seu e-mail seguindo as instruções na seção [4 - Solicitar atualização do e-mail](#4-solicitar-atualizacao-do-e-mail).
+
+Você receberá um e-mail com um link, conforme indicado na Figura 6.
 
 > ![Tela email para recuperação de senha](images/reiniciosenha-03.png "Mensagem de e-mail da UFMT com o link para alterar a senha")
 > Figura 6 - Email para recuperação de senha
 
-Depois de clicar no link indicado na Figura 6, será exibida uma tela conforme mostra a Figura 7. Nesta tela digite seu CPF, sua nova senha e repita a sua senha no campo de confirmação.
+Depois de clicar no link será exibida uma tela conforme mostra a Figura 7. Nesta tela digite seu CPF, sua nova senha e repita a sua senha no campo de confirmação.
 Clique no botão Alterar.
 
-**Atenção:** certifique-se de criar uma senha com ao menos uma letra maiúscula, um número e com no mínimo 8 caracteres.
+!!! warning "Atenção"
+    Certifique-se de criar uma senha com ao menos uma letra maiúscula, um número e com no mínimo 8 caracteres.
 
 > ![Tela para cadastro da nova senha](images/reiniciosenha-04.png "Tela para cadastro da nova senha com os campos cpf, senha e repetição de senha")
 > Figura 7 - Tela para cadastro da nova senha

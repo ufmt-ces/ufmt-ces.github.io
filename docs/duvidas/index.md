@@ -2,11 +2,11 @@
 
 > Como acesso o Portal de Sistemas Integrados?
 
-Você deve utilizar seu **CPF** e sua senha.
+Você deve utilizar seu **CPF** e sua senha. Se você acabou de ingressar na UFMT como **estudante**, a senha é a mesma usada durante a fase de envio de documentos. Se você acabou de entrar como **servidor(a)**, deve realizar o cadastro do usuário seguindo [essas](acesso/#3-cadastro-de-novo-usuario) instruções.
 
-> Não tenho/Esqueci a senha para acessar o Portal de Sistemas Integrados
+> Esqueci a senha para acessar o Portal de Sistemas Integrados
 
-Basta realizar a recuperação de senha. [Aqui](../../acesso/#2-recuperacao-de-senha) você tem acesso as instruções.
+Basta realizar a recuperação de senha. [Aqui](/acesso/#2-recuperacao-de-senha) você tem acesso as instruções.
 
 > Ao tentar trocar de senha o sistema avisa que a senha informada não coincide com a senha atual
 
@@ -23,22 +23,18 @@ Então você deve acessar e se autenticar no Portal de Sistemas Integrados, busc
 
 > Não estou recebendo as mensagens para recuperar a senha do Portal de Sistemas Integrados
 
-Verifique também sua caixa de spam.
+Verifique se sua conta de e-mail não está com a caixa de entrada cheia. Verifique também sua caixa de spam.
 
 > Quero trocar o e-mail para poder recuperar minha senha de acesso ao Portal de Sistemas Integrados
 
 Para solicitar a atualização do seu e-mail no nosso cadastro, envie uma mensagem para o endereço <ces@ufmt.br> informando seu nome completo, CPF e o novo e-mail pessoal para cadastro.
 Você também deve anexar na mensagem um documento válido com foto e um comprovante de endereço residencial.
 
+> Como solicito uma conta de e-mail da UFMT?
+
+Não é necessário solicitar uma conta de e-mail administrativo (independente se você é servidor ou estudante da UFMT). A conta é criada automaticamente e quando isso acontecer, está disponível para consulta no perfil do Portal de Sistemas.
+A senha de acesso ao Google é a mesma utilizada para acesso ao Portal de Sistemas. [Aqui](https://docs.sti.ufmt.br/gmrl/ajuda/google-workspace) você tem acesso ao manual detalhado sobre o _Google Workspace for Education_.
+
 > O menu no SIGA/SIPG sumiu
 
-Acesse as instruções [aqui](../menusiga.md)
-
-> Esqueci a minha senha
-
-Acesse as instruções [aqui](../acesso/#2-recuperacao-de-senha)
-
-> Não tenho acesso ao e-mail cadastrado para recuperar a senha
-
-Para solicitar a atualização do seu e-mail no nosso cadastro, envie uma mensagem para o endereço <ces@ufmt.br> informando seu nome completo, CPF e o novo e-mail pessoal para cadastro.
-Você também deve anexar na mensagem um documento válido com foto e um comprovante de endereço residencial.
+Acesse as instruções [aqui](/menusiga.md)

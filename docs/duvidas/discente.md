@@ -24,10 +24,6 @@ Atualmente temos publicados os aplicativos:
 
 Acesse Portal da UFMT > Serviços > SEI - Sistema Eletrônico de Informações e clique em 'Acesso para usuário externo'.
 
-> Como solicito uma conta de e-mail da UFMT?
-
-As instruções estão disponíveis em <https://webmail-estudante.ufmt.br> > [Guia do Usuário](https://webmail-estudante.ufmt.br/skins/larry/includes/tutorial_roundcube.pdf).
-
 > Com acesso a rede CAF-e, para ter acesso aos Períodicos CAPES ou outros serviços?
 
 Acesse o manual [aqui](https://docs.sti.ufmt.br/smrt/ajuda/cafe).
