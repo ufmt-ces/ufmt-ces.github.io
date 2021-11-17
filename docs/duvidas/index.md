@@ -2,7 +2,7 @@
 
 > Como acesso o Portal de Sistemas Integrados?
 
-Você deve utilizar seu **CPF** e sua senha. Se você acabou de ingressar na UFMT como **estudante**, a senha é a mesma usada durante a fase de envio de documentos. Se você acabou de entrar como **servidor(a)**, deve realizar o cadastro do usuário seguindo [essas](acesso/#3-cadastro-de-novo-usuario) instruções.
+Você deve utilizar seu **CPF** e sua senha. Se você acabou de ingressar na UFMT como **estudante**, a senha é a mesma usada durante a fase de envio de documentos. Se você acabou de entrar como **servidor(a)**, deve realizar o cadastro do usuário seguindo [essas](/acesso/#3-cadastro-de-novo-usuario) instruções.
 
 > Esqueci a senha para acessar o Portal de Sistemas Integrados
 
@@ -37,4 +37,4 @@ A senha de acesso ao Google é a mesma utilizada para acesso ao Portal de Sistem
 
 > O menu no SIGA/SIPG sumiu
 
-Acesse as instruções [aqui](/menusiga.md)
+Acesse as instruções [aqui](../menusiga.md)
