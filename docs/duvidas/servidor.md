@@ -1,12 +1,15 @@
 # Dúvidas Frequentes - Servidores e Funcionários
 
+Primeiro, certifique-se de ter acesso ao [Portal de Sistemas Integrados](https://sistemas.ufmt.br/ufmt.portalsistemas).
+É através dele que você acessa boa parte dos Sistemas da UFMT. A mesma senha de acesso ao Portal vai ser utilizada para acessar outros endereços, com o [SEI](https://sei.ufmt.br) e o [Google Workspace da UFMT](https://docs.sti.ufmt.br/gmrl/ajuda/google-workspace).
+
 > Sou servidor(a)/funcionário(a) e quero acessar o Portal de Sistemas mas não tenho senha
 
 Se você é servidor(a), funcionário(a) da UFMT (EST - Regime Estatutário ou CLT - Consolidação das Leis do Trabalho) ou faz estágio na UFMT basta acessar essas instruções [aqui](/acesso/#3-cadastro-de-novo-usuario).
 
 > Quero acessar o Portal de Sistemas mas não tenho vínculo direto com a UFMT
 
-Se seu vínculo é bolsista ou voluntariado, entre em contato com a chefia da unidade onde você executará suas . Ela deve realizar o seu pré-cadastro via SVF - Sistema de Vínculo Funcional.
+Se seu vínculo é bolsista ou voluntariado, entre em contato com a chefia da unidade onde você executará suas atividades. Ela deve realizar o seu pré-cadastro via SVF - Sistema de Vínculo Funcional.
 
 > Ao fazer o cadastro para acesso ao Portal de Sistemas recebi um aviso de CPF e Siape não localizados
 
