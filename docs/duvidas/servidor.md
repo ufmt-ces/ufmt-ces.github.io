@@ -1,16 +1,20 @@
 # Dúvidas Frequentes - Servidores e Funcionários
 
-> Sou servidor(a)/funcionário(a) **com Siape** e quero acessar o Portal de Sistemas mas não tenho senha
+> Sou servidor(a)/funcionário(a) e quero acessar o Portal de Sistemas mas não tenho senha
 
-Acesse as instruções [aqui](../acesso/#3-cadastro-de-novo-usuario)
+Se você é servidor(a), funcionário(a) da UFMT (EST - Regime Estatutário ou CLT - Consolidação das Leis do Trabalho) ou faz estágio na UFMT basta acessar essas instruções [aqui](/acesso/#3-cadastro-de-novo-usuario).
 
-> Sou servidor(a)/funcionário(a) **sem Siape** e quero acessar o Portal de Sistemas mas não tenho senha
+> Quero acessar o Portal de Sistemas mas não tenho vínculo direto com a UFMT
 
-Entre em contato conosco: <https://sistemas.ufmt.br/ufmt.sia/Home/Contato>
+Se seu vínculo é bolsista ou voluntariado, entre em contato com a chefia da unidade onde você executará suas . Ela deve realizar o seu pré-cadastro via SVF - Sistema de Vínculo Funcional.
 
 > Ao fazer o cadastro para acesso ao Portal de Sistemas recebi um aviso de CPF e Siape não localizados
 
-Muito provavelmente você ainda não consta nos nossos registros por ter um vínculo recente com a instituição. Mensalmente o Sistema de Recursos Humanos do Governo Federal libera a relação de novos servidores, se você não consegue realizar o primeiro acesso é indicativo que sua informação não consta nessa relação. Portanto aguarde a nova coleta das informações, que é realizada mensalmente entre os dias 25 e 5.
+Muito provavelmente você não tem um pré-cadastrado na base da UFMT.
+O pré-cadastro acontece quando coletamos os dados dos novos servidores do Sistema de Recursos Humanos do Governo Federal. E o Governo Federal libera o arquivo mensalmente, portanto não é possível adiantar ou antecipar esse pré-cadastro.
+
+Se você informou o CPF e o Siape correto e não conseguiu realizar o primeiro acesso então suas informações não constam na última coleta realizada.
+Por favor aguarde a nova coleta das informações, **que é realizada mensalmente entre os dias 25 e 5**.
 
 > Quero ter acesso ao SEI da minha unidade
 
@@ -18,9 +22,9 @@ Primeiro você já deve ter o acesso ao Portal de Sistemas Integrados. Depois, b
 
 ## Sou docente
 
-> Não tenho acesso nem ao SIGA nem ao AVA
+> Não tenho acesso nem ao Portal Acadêmico do Docente nem ao AVA
 
-Para acessar tanto o SIGA quanto o AVA a coordenação do curso deve vincular você à uma ou mais disciplinas no SIGA. Só depois disso você terá o acesso desses ambientes para as disciplinas. Após o vínculo você terá acesso imediato no SIGA. As disciplinas são registradas no seu AVA em até 24h, de forma automática.
+Primeiro você já deve ter o acesso ao Portal de Sistemas Integrados. Para acessar tanto o Portal Acadêmico do Docente quanto o AVA, a coordenação do curso deve vincular você à uma ou mais disciplinas. Após o vínculo você terá acesso imediato no Portal Acadêmico do Docente. Já no AVA as disciplinas serão registradas em até 24h, de forma automática.
 
 > A coordenação já me registrou como docente da disciplina no SIGA mas ela ainda não consta no meu AVA
 
