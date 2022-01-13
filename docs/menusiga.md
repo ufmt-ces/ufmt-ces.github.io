@@ -7,65 +7,33 @@ respectivamente o **SIGA** e o **SIPG**.
 ![Tela do SIPG](images/sipg.png "SIPG com menu com erro")
 
 A CES, não medindo esforços em melhorar o ambiente digital da comunidade acadêmica, esta voltando seu corpo de trabalho no desenvolvimento
-de uma nova versão do Portal Acadêmico, mais adequado com as novas tecnologias e menos suscetível à falhas de interface.
+de uma nova versão do Portal Acadêmico, mais adequado com as novas tecnologias e menos suscetível à falhas de interface. Ele já está disponível para os **discentes e docentes** da UFMT. Basta acessar o Portal de Sistemas Integrados e depois buscar por 'portal acadêmico'.
 
-Com isso, é recomendado uma medida paliativa, configurando-se o navegador para que este possa exibir corretamente o conteúdo dos sistemas acadêmicos atuais.
+Uma medida paliativa é a configuração do navegador para que este possa exibir corretamente o conteúdo desses sistemas acadêmicos.
 
-Aqui constam as instruções para o [Chrome](#chrome), [Firefox](#firefox) e [Opera](#opera)
-
-## Chrome
-
-### Método 1
-
-Na barra de endereço do Chrome, localize e clique no texto 'inseguro' do lado esquerdo. No painel que se expandir, clique em 'Definições de sites'.
-
-![Tela 01 do Chrome](images/chrome_01.png "Chrome com a opção de definição do site")
-
-Na tela de configurações que for aberta, localize no final da página a opção 'Conteúdo inseguro' e escolha a opção 'Permitir'.
-
-![Tela 02 do Chrome](images/chrome_02_cortado.png "Definições do site academico")
-
-### Método 2
-
-No menu do Chrome, expanda as opções (**⋮**) e clique em 'Definições'
-
-![Tela 03 do Chrome](images/chrome_03.png "Menu Definições")
-
-Na tela apresentada, digite 'definições de sites' e clique na opção encontrada
-
-![Tela 04 do Chrome](images/chrome_04.png "Definições de sites")
-
-No final da página encontre e clique na opção 'Conteúdo inseguro'
-
-![Tela 05 do Chrome](images/chrome_05.png "Opção conteúdo inseguro")
-
-Nas opções expandidas, adicione os endereços `https://academico-siga.ufmt.br:443` e `https://academico-siga.ufmt.br:80`
-
-![Tela 05 do Chrome](images/chrome_06.png "Permitir conteúdo")
-
+O navegador recomendável atualmente (_em 13/01/2022_) é o [Firefox](https://www.mozilla.org/pt-BR/firefox/new/).
 
 ## Firefox
 
-### Método 1
+Os procedimentos abaixo foram indicados usando o SIGA mas são os mesmos para o SIPG. Basta realizar uma vez para ambos os sistemas ficarem acessíveis.
 
-Na barra de endereço do Firefox, localize e clique no icone do cadeado.
-Depois clique no sinal **>** para expandir as opções
+Verifique se o seu navegador está na última versão. A testada nesse procedimento foi a 96.0.
 
-![Tela 01 do Firefox](images/erro_01_firefox_cortado.png "Firefox com informações do site")
+Para saber a versão, clique no ícone para abrir o menu do Firefox (são os 3 traços horizontais no canto superior do navegador), depois em **Ajuda** e por fim em **Sobre o Firefox**.
 
-Na informação expandida clique em 'Desativar proteção por enquanto'
+![Ícone Menu do Firefox](images/firefox_menu.png "Ícone Menu do Firefox")
+![Tela Sobre o Firefox](images/firefox_sobre.png "Tela Menu do Firefox")
 
-![Tela 02 do Firefox](images/erro_02_firefox.png "Firefox com informações do site")
+Para realizar a liberação do SIGA acesse o Portal de Sistemas Integrados e depois acesse o SIGA. Nessa página, clique no ícone de configuração com o formato de um escudo.
 
+![Ícone de proteção do Firefox](images/firefox_01.png "Ícone de proteção do Firefox")
 
-### Método 2
+Na pequena janela que abrir, clique em 'Configuração de proteção'.
 
-No campo de endereço, digite about:config
+![Popup de proteção do Firefox](images/firefox_02.png "Popup de proteção do Firefox")
 
-Clique no botão Serei cuidadoso, prometo
+Desça até o fim da página que foi aberta. Na região 'Modo somente HTTPS' certifique-se de marcar a opção 'Ativar o modo somente HTTPS em todas as janelas'.
 
-No campo de pesquisa, digite block_active
+![Configuração de proteção do Firefox](images/firefox_03.png "Configuração de proteção do Firefox")
 
-Defina o valor de security.mixed_content.block_active_content para falso
-
-## Opera
+E é isso. Você pode fechar essa página e reabrir a página do SIGA.

@@ -12,11 +12,11 @@ Primeiro verifique se as suas dúvidas já estão esclarecidas [aqui](../duvidas
 
 Primeiro verifique se as suas dúvidas já estão esclarecidas [aqui](../duvidas). Se você não encontrar a resposta desejada, acesse [essa sessão](../duvidas/servidor).
 
-## Dados de contato com a UFMT:
+## Dados de contato com a UFMT
 
 Os dados de contato com a UFMT podem ser encontrados no endereço <https://www.ufmt.br/covid> > Atendimento UFMT ou no endereço <https://www.ufmt.br/telefones>
 
-## Contatos de suporte:
+## Contatos de suporte
 
 - Dúvidas quanto a utilização do **AVA de Graduação Presencial** e de **Pós-Graduação**: <apoio@ufmt.br>
 - Dúvidas quanto a criação do **e-mail institucional** e utilização do **CAFé**: <suporte-email@ufmt.br>
