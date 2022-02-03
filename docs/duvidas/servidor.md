@@ -77,14 +77,15 @@ Por favor aguarde a nova coleta das informações, **que é realizada mensalment
 Primeiro, entre em contato com a Secretaria de Gestão de Pessoas para ser registrado como responsável no Siscofre.
 Feita as devidas alterações nesse sistema, você terá acesso imediato aos seguintes sistemas:
 
--   SISCOFRE - Sistema de Controle de Frequência
--   SIEX - Sistema de Extensão
--   SGE - Sistema de Gerenciamento de Encargos
--   SGPP - Sistema de Gerenciamento de Projetos de Pesquisa
--   SigServ - Sistema de Gestão de Serviços
+- SISCOFRE - Sistema de Controle de Frequência
+- SIEX - Sistema de Extensão
+- SGE - Sistema de Gerenciamento de Encargos
+- SGPP - Sistema de Gerenciamento de Projetos de Pesquisa
+- SigServ - Sistema de Gestão de Serviços
+- SGBP - Sistema de Gerenciamento de Bens Patrimoniais
 
-Para ter acesso ao SGBP - Sistema de Gerênciamento de Bens Patrimôniais - entre em contato com a Gerência de Patrimônio.
+Para ter acesso ao SAD - Sistema de Avaliação de Desempenho - entre em contato com a Comissão de Avaliação de Desempenho e Estágio Probatório, <cadep.sgp@ufmt.br>.
 
-Para ter acesso ao SAD - Sistema de Avaliação de Desemnho - entre em contato com a Comissão de Avaliação de Desempenho e Estágio Probatório.
+Para ter acesso ao SEI - Sistema Eletrônico de Informações - entre em contato com a Gerência de Protocolo Central, <gpc.proad@ufmt.br>.
 
 Para ter acesso ao SISREQ - Sistema de Requisição de Materiais - entre em contato com <lidiane@ufmt.br> ou <anderson.martins@ufmt.br>.
