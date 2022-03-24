@@ -124,3 +124,8 @@ Nessa nova atividade será registrada tanto a nota final do discente que teve pr
 
 > ![Segunda época](../images/notasexcel-10.png "Segunda época")
 > Figura 10 - Segunda época
+
+## Outros endereços úteis:
+
+* [Manual do Portal Acadêmico - Docente](portalacadocente.md)
+* Manual do Novo AVA
