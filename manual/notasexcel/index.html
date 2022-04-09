@@ -15,7 +15,7 @@
     
     
       
-        <title>Conferindo o resultado do requerimento ou ajuste de matrícula - CES - Wiki</title>
+        <title>Manual para lançamento de notas via Planilha Eletrônica - CES - Wiki</title>
       
     
     
@@ -63,7 +63,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#conferindo-o-resultado-do-requerimento-ou-ajuste-de-matricula" class="md-skip">
+        <a href="#manual-para-lancamento-de-notas-via-planilha-eletronica" class="md-skip">
           Ir para o conteúdo
         </a>
       
@@ -95,7 +95,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Conferindo o resultado do requerimento ou ajuste de matrícula
+              Manual para lançamento de notas via Planilha Eletrônica
             
           </span>
         </div>
@@ -329,43 +329,70 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#siga" class="md-nav__link">
-    SIGA
+  <a href="#como-utilizar" class="md-nav__link">
+    Como utilizar
   </a>
   
-    <nav class="md-nav" aria-label="SIGA">
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#exportar-diario-de-notas" class="md-nav__link">
+    Exportar diário de notas
+  </a>
+  
+    <nav class="md-nav" aria-label="Exportar diário de notas">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#estrutura-do-curso" class="md-nav__link">
-    Estrutura do curso
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#fluxograma" class="md-nav__link">
-    Fluxograma
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#historico-escolar-e-planilha-de-horario" class="md-nav__link">
-    Histórico Escolar e Planilha de Horário
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#oferta-de-disciplinas" class="md-nav__link">
-    Oferta de disciplinas
+  <a href="#formulas-do-excel" class="md-nav__link">
+    Fórmulas do Excel
   </a>
   
 </li>
         
       </ul>
     </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#importar-diario-de-notas" class="md-nav__link">
+    Importar diário de notas
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#outras-situacoes" class="md-nav__link">
+    Outras situações
+  </a>
+  
+    <nav class="md-nav" aria-label="Outras situações">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#alunos-novos" class="md-nav__link">
+    Alunos novos
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#prova-final-exame-final-ou-exame-de-segunda-epoca" class="md-nav__link">
+    Prova Final, Exame Final ou Exame de Segunda Época
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#outros-enderecos-uteis" class="md-nav__link">
+    Outros endereços úteis:
+  </a>
   
 </li>
       
@@ -381,47 +408,121 @@
             <article class="md-content__inner md-typeset">
               
                 
-  <a href="https://github.com/ufmt-ces/ufmt-ces.github.io/edit/master/docs/siga/conferenciamatricula.md" title="Editar esta página" class="md-content__button md-icon">
+  <a href="https://github.com/ufmt-ces/ufmt-ces.github.io/edit/master/docs/manual/notasexcel.md" title="Editar esta página" class="md-content__button md-icon">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25Z"/></svg>
   </a>
 
 
 
-<h1 id="conferindo-o-resultado-do-requerimento-ou-ajuste-de-matricula">Conferindo o resultado do requerimento ou ajuste de matrícula</h1>
-<p>É necessário observar que quando o discente faz o requerimento ou o ajuste de matricula, <strong>a matrícula no período não está garantida</strong>.
-Apos a solicitação é realizado o processamento, que considera:</p>
+<h1 id="manual-para-lancamento-de-notas-via-planilha-eletronica">Manual para lançamento de notas via Planilha Eletrônica</h1>
+<p>O Lançamento de Notas possui a opção de realizar o registro por <strong>Planilha Eletrônica</strong>, permitindo o registro de qualquer tipo de cálculo diretamente no arquivo Excel.</p>
+<p>Quando o docente carregar o arquivo Excel, o sistema irá entender por padrão que a última atividade lançada no arquivo como sendo a <strong>atividade final</strong>.
+É a nota dessa atividade que será registrada em histórico na eventual homologação do Lançamento de Notas.</p>
+<p>Nessa planilha eletrônica o docente pode utilizar a forma que desejar para calcular as diversas atividades que ministrou.
+No entanto, caso deseje adicionar ou remover atividades, deve realizar os procedimentos de importação e exportação novamente.</p>
+<h2 id="como-utilizar">Como utilizar</h2>
+<p>Para lançar as notas pelo arquivo Excel, primeiro o docente deve alterar o registro da disciplina.</p>
+<p>Isso é feito no campo 'Tipo de média adotada para disciplina', conforme a Figura 1. O docente deve escolher a opção 'Planilha Eletrônica' e depois clicar no botão 'Alterar'. </p>
+<blockquote>
+<p><img alt="Tipo de média adotada" src="../../images/notasexcel-01.png" title="Tipo de média adotada" />
+Figura 1 - Tipo de média adotada</p>
+</blockquote>
+<p>Uma mensagem de sucesso deve ser informada pelo sistema.</p>
+<p>Depois de alterada, no fim da página do Lançamento de Notas será exibido o botão 'Planilha Eletrônica', conforme a Figura 2.
+Para prosseguir basta o docente clicar no botão.</p>
+<blockquote>
+<p><img alt="Botão Planilha Eletrônica" src="../../images/notasexcel-02.png" title="Botão Planilha Eletrônica" />
+Figura 2 - Botão Planilha Eletrônica</p>
+</blockquote>
+<p>Depois de clicar no botão será exibida uma nova página, conforme a Figura 3.</p>
+<p>Nessa página o docente tem os dados da disciplina e as opções 'Exportar Diário de Notas Online' e 'Importar Diário de Notas Online'.</p>
+<blockquote>
+<p><img alt="Exportar e importar diário" src="../../images/notasexcel-03.png" title="Exportar e importar diário" />
+Figura 3 - Exportar e importar diário</p>
+</blockquote>
+<h2 id="exportar-diario-de-notas">Exportar diário de notas</h2>
+<p>Para baixar o arquivo Excel que será usado como modelo para o registro das notas, o docente deve clicar no botão 'Exportar Diário de Notas Online'.</p>
+<p>Um arquivo será baixado, tendo o formato semelhante ao da Figura 4.</p>
+<blockquote>
+<p><img alt="Arquivo Excel em branco" src="../../images/notasexcel-04.png" title="Arquivo Excel em branco" />
+Figura 4 - Arquivo Excel em branco</p>
+</blockquote>
+<p>Destacados em vermelho estão os dados que podem ser editados.</p>
+<p>Para realizar o registro da atividade basta que o docente preencha os dados destacados.
+Para lançar uma nova atividade basta repetir o lançamento na coluna D, E, F e assim por diante.</p>
+<p>O primeiro campo que deve ser preenchido é a data da atividade. O formato é o DD/MM/AAAA, como na Figura 4. <strong>As datas das atividades lançadas no arquivo Excel não podem ser repetidas</strong>.</p>
+<p>Abaixo da data e na linha que representa cada aluno, deve ser inserida a nota do aluno. <strong>A nota do aluno não pode ficar vazia</strong>.</p>
+<p>Na sequência, depois do preenchimento da nota de todos os alunos, são apresentados os campos para informação do nome da atividade, da descrição e do peso.</p>
+<p>O nome da atividade é obrigatório. É esse nome que será exibido no Portal Acadêmico. A descrição é um campo opcional.</p>
+<p>O peso é um campo obrigatório e tem o valor padrão 1. Esse campo tem a função de auxiliar no preparo do cálculo mas deve ser aplicado no cálculo pelo docente.</p>
+<div class="admonition warning">
+<p class="admonition-title">ATENÇÃO</p>
+<p>Qualquer preenchimento fora desse padrão descrito pode impedir a correta importação do arquivo pelo sistema.</p>
+</div>
+<p>Caso seja necessário manter observações ou outros registros no arquivo Excel, recomenda-se salvar uma cópia do arquivo com essas observações.</p>
+<p>Na Figura 5 é apresentado um exemplo do arquivo Excel preenchido com as atividades e respectivas notas de cada discente</p>
+<blockquote>
+<p><img alt="Arquivo Excel preenchido" src="../../images/notasexcel-05.png" title="Arquivo Excel preenchido" />
+Figura 5 - Arquivo Excel preenchido</p>
+</blockquote>
+<p>Por padrão, a última coluna de atividade preenchida no Excel será considerada como <strong>atividade final</strong>.</p>
+<h3 id="formulas-do-excel">Fórmulas do Excel</h3>
+<p>É possível aplicar fórmulas no Excel para auxiliar no cálculo das notas. Abaixo segue alguns exemplos:</p>
 <ul>
-<li>o regime do curso (crédito ou seriado)</li>
-<li>a oferta de horários das disciplinas no período</li>
-<li>a estrutura do curso</li>
-<li>e o histórico do aluno (em específico o coeficiente)</li>
+<li>Para o cálculo de média simples, <code>=SOMA(C8:E8)/3</code>, onde:<ul>
+<li><code>C8:E8</code> é o intervado de atividades lançadas no Excel e <code>3</code> é o número de ativdades lançadas</li>
 </ul>
-<p>A <strong>Resolução CONSEPE nº 14/1999</strong> estabelece as diretrizes para os cursos de regime seriado e as <strong>Resoluções CONSEPE nº 52/1994 e 32/1999</strong> contém as regulamentações para os curso de regime em créditos.</p>
-<p>Conhecer a estrutura e o regime do seu curso é essencial para o entendimento da matrícula.
-Nos cursos seriados a matrícula segue conforme as séries, sequencialmente e sucessivamente, e reprovações retêm ou deixam o aluno em dependência na série.
-Os cursos créditos seguem as regras de pré-requisito, co-requisito, carga horária mínima, etc.</p>
-<p>Resumidamente, o <strong>regime seriado</strong> consiste na organização das disciplinas em séries de tal forma que as disciplinas de uma série sejam 'preparatórias' para as das séries subsequentes. Só ascenderão à série seguinte os alunos que tenham sido reprovados em no máximo duas disciplinas. Aqueles que não atenderem essa condição permanecerão retidos na série.</p>
-<p>Já no <strong>regime de crédito</strong> os alunos matriculam-se em disciplinas de diferentes semestres desde que sejam observados os pré-requisitos, co-requisitos, carga horária mínima necessária, etc conforme apresentado na estrutura curricular do curso.</p>
-<p>Você consegue descobrir isso acessando a <a href="https://ufmt.br/ensino/busca?text=&amp;modality=PRESENCIAL&amp;type=&amp;campus=&amp;period=">lista de cursos</a> no Portal da UFMT e clicando no nome do seu curso para expandir e exibir os detalhes.</p>
-<p>Para sanar maiores dúvidas sobre o regime e a estrutura do seu curso, por favor procure a sua coordenação. Os dados de contato podem ser encontrados no endereço <a href="https://www.ufmt.br/telefones">https://www.ufmt.br/telefones</a>.</p>
-<p>O restante das informações necessárias estão disponíveis no SIGA (sistema acadêmico), acessível através do <a href="https://sistemas.ufmt.br/ufmt.portalsistemas">Portal de Sistemas Integrados</a> e no aplicativo da UFMT, disponível para <a href="https://play.google.com/store/apps/details?id=br.ufmt.sti.app">Android</a> ou <a href="https://apps.apple.com/br/app/ufmt/id1438762579">Iphone</a>.</p>
-<h2 id="siga">SIGA</h2>
-<h3 id="estrutura-do-curso">Estrutura do curso</h3>
-<p>O sistema SIGA apresenta as informações necessárias para o aluno conhecer sua situação acadêmica.
-Em <strong>Cursos &gt; Estrutura Geral</strong> é possível conhecer o regime e a estrutura do curso.</p>
-<p><img alt="Estrutura do curso" src="../../images/siga_estrutura_curso.png" /></p>
-<h3 id="fluxograma">Fluxograma</h3>
-<p>Outro recurso importante para o entendimento da situação acadêmica é o fluxograma. O fluxograma do aluno demonstra com uma representação gráfica detalhes sobre a vida acadêmica. Através do caminho <strong>Alunos &gt; Fluxograma</strong> é possível obter informações sobre a série e as disciplinas retidas para os cursos seriados ou a situação dos pré-requisitos para os cursos créditos.</p>
-<p><img alt="Fluxograma" src="../../images/siga_fluxograma.png" /></p>
-<h3 id="historico-escolar-e-planilha-de-horario">Histórico Escolar e Planilha de Horário</h3>
-<p>Outros recursos importantes para os alunos são o Histórico Escolar e a Planilha de Horários. Ambos os documentos também estão disponíveis no aplicativo da UFMT.</p>
-<p>No histórico escolar (<strong>Documentos &gt; Histórico Escolar</strong>) constam as informações sobre as reprovações, aprovações, aproveitamento de estudos, as disciplinas cursadas como atividade complementar, o total de carga horária cursada, o coeficiente de rendimento, etc.</p>
-<p>Na planilha de horário (<strong>Documentos &gt; Planilha de horário</strong>) são informados os horários das disciplinas matriculadas no período; na planilha de horário com recusas (<strong>Documentos &gt; Planilha de Horário c/ Recusas</strong>) é informado adicionalmente o resultado do pedido de matrícula realizado no período acadêmico pelo discente, com o motivo da recusa.</p>
-<p><img alt="Planila de horários com recursas" src="../../images/siga_historico.png" /></p>
-<h3 id="oferta-de-disciplinas">Oferta de disciplinas</h3>
-<p>Após o conhecimento da sua situação acadêmica, o aluno deve conferir a oferta de horários do período. As disciplinas são ofertadas pela coordenação do curso e influenciam diretamente o resultado da matrícula. Para conferir as disciplinas ofertadas pela coordenação no período, basta acessar  os links presentes nos sistemas de matrícula ou no SIGA em <strong>Horários &gt; Oferta/Disciplinas e Horários por Curso</strong>:</p>
-<p><img alt="Oferta de disciplinas" src="../../images/siga_oferta_curso.png" /></p>
-<p>Caso a disciplina desejada não tenha sido ofertada ou esgotou o número de vagas procure a coordenação do seu curso.</p>
+</li>
+<li>Para o cálculo de média ponderada, <code>=((C8*C$15)+(D8*D$15)+(E8*E$15))/(C$15+D$15+E$15)</code>, onde:<ul>
+<li><code>(C8*C$15)</code> é a nota da atividade multiplicada pelo seu respectivo peso. Note o sifrão na célula do peso. Essa anotação serve para dizer que esse valor é fixo</li>
+</ul>
+</li>
+</ul>
+<p>Depois que preenchida primeira célula com a fórmula, basta repetir nas demais linhas.
+Para isso clique com o botao do mouse no canto inferior direito da célula e arraste até preencher todas as linhas que representam os alunos, conforme mostra a Figura 6.</p>
+<blockquote>
+<p><img alt="Replicando a fórmula no Excel" src="../../images/notasexcel-06.gif" title="Replicando a fórmula no Excel" />                                         <br />
+Figura 6 - Replicando a fórmula no Excel</p>
+</blockquote>
+<h2 id="importar-diario-de-notas">Importar diário de notas</h2>
+<p>Para importar o arquivo Excel com as notas preenchidas, o docente deve clicar no botão 'Importar Diário de Notas Online'.</p>
+<blockquote>
+<p><img alt="Exportar e importar diário" src="../../images/notasexcel-03.png" title="Exportar e importar diário" />
+Figura 7 - Exportar e importar diário</p>
+</blockquote>
+<p>Na tela seguinte o docente deve clicar no botão 'Selecionar' para escolher o arquivo e depois clicar no botão 'Carregar' para processar os lançamentos realizados.</p>
+<blockquote>
+<p><img alt="Importar diário preenchido no Excel" src="../../images/notasexcel-07b.png" title="Importar diário preenchido no Excel" />
+Figura 8 - Importar diário preenchido no Excel</p>
+</blockquote>
+<p>Se o arquivo Excel foi preenchido conforme as instruções dadas em <a href="#exportar-diario-de-notas">Exportar diário de notas</a>, a tela seguinte exibirá os dados preenchidos no arquivo para que o docente possa conferir antes de enviar.</p>
+<blockquote>
+<p><img alt="Conferência do arquivo importado" src="../../images/notasexcel-08.png" title="Conferência do arquivo importado" />
+Figura 9 - Conferência do arquivo importado</p>
+</blockquote>
+<p>Finalizada as conferências, para enviar as notas clique em 'Enviar para Diário de Notas'.</p>
+<blockquote>
+<p><img alt="Atividades enviadas" src="../../images/notasexcel-09.png" title="Atividades enviadas" />
+Figura 10 - Atividades enviadas</p>
+</blockquote>
+<h2 id="outras-situacoes">Outras situações</h2>
+<h3 id="alunos-novos">Alunos novos</h3>
+<p>Caso exista um novo aluno na turma, basta baixar a planilha novamente.
+O novo arquivo virá preenchido com os discentes que tiveram as notas preenchidas previamente e virá também com os novos discentes, estes sem ter a nota nas atividades.</p>
+<p>Observe que a fórmula aplicada previamente não estará nesse novo arquivo baixado, por isso é importante manter uma cópia do arquivo enviado.</p>
+<h3 id="prova-final-exame-final-ou-exame-de-segunda-epoca">Prova Final, Exame Final ou Exame de Segunda Época</h3>
+<p>Caso o curso tenha a previsão de realizar uma Prova Final, Exame Final ou Exame de Segunda Época, o docente usar o Excel para esse registro mas precisa ter cuidado no lançamento.</p>
+<p>Como informado, a última coluna de atividade preenchida no Excel será considerada como atividade final. Assim, para que os discentes que não tiveram que fazer esse novo exame não sejam prejudicados com o lançamento vazio dessa nota, o docente deve, além de registrar a atividade relativa à nova nota, criar uma nova atividade.</p>
+<p>Nessa nova atividade será registrada tanto a nota final do discente que teve prova final (ou qualquer outro tipo de nota) quanto a nota final já calculada dos demais discentes.</p>
+<blockquote>
+<p><img alt="Segunda época" src="../../images/notasexcel-10.png" title="Segunda época" />
+Figura 10 - Segunda época</p>
+</blockquote>
+<h2 id="outros-enderecos-uteis">Outros endereços úteis:</h2>
+<ul>
+<li><a href="../portalacadocente/">Manual do Portal Acadêmico - Docente</a></li>
+<li>Manual do Novo AVA</li>
+</ul>
 
               
             </article>
