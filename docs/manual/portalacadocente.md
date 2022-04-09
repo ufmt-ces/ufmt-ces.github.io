@@ -53,7 +53,7 @@ Nessa tela o docente tem acesso ao formulário de passageiros para aula de campo
 
 ## Críticas e Sugestões?
 
-Encaminhe uma mensagem para ces.sti@ufmt.br
+Encaminhe uma mensagem para <ces.sti@ufmt.br>
 
 ## Outros endereços úteis:
 
