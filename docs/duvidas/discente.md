@@ -3,7 +3,7 @@
 Primeiro, certifique-se de ter acesso ao [Portal de Sistemas Integrados](https://sistemas.ufmt.br/ufmt.portalsistemas).
 É através dele que você:
 
--   acessa boa parte dos Sistemas da UFMT, inclusive os acadêmicos como o AVA e as ferramentas para requerimento e ajuste de matrícula
+-   acessa boa parte dos Sistemas da UFMT, inclusive os acadêmicos como o Portal Acadêmico, o Protocolo Virtual do aluno e as ferramentas para requerimento e ajuste de matrícula
 -   pode alterar seu e-mail de contato e dados bancários
 -   pode definir sua senha para acessar os aplicativos da UFMT
 
@@ -48,7 +48,7 @@ Você também pode obter seu RGA acessando o aplicativo da UFMT.
 Normalmente quem ingressa por transferência não faz por conta própria a matrícula em disciplina, mesmo em casos de transferência interna, então entre em contato com o Registro Escolar do seu campus ou com sua coordenação de curso.
 
 Mas se isso foi uma solicitação da sua coordenação, a única ferramenta disponível é o Ajuste do Coordenador via Protocolo Virtual do Aluno, que pode ser acessado no Portal de Sistemas Integrados.
-Observe que você só conseguirá acesar no período definido no calendário acadêmico e que seu pedido será analisado e homologado pela coordenação. Somente depois que você terá a disciplina no histórico e no AVA.
+Observe que você só conseguirá acesar no período definido no calendário acadêmico e que seu pedido será analisado e homologado pela coordenação. Somente depois que você terá a disciplina no histórico e nas Salas Virtuais.
 
 ---
 
@@ -78,14 +78,14 @@ Acesse as instruções [aqui](../siga/conferenciamatricula.md)
 
 Realize sua renovação via protocolo virtual do aluno, que pode ser acessado em [Portal de Sistemas Integrados](https://sistemas.ufmt.br/ufmt.portalsistemas) > Protocolo Virtual do Aluno.
 
-> Fiz o requerimento on-line de disciplinas via SIGA e elas ainda não aparecem no AVA
+> Fiz o requerimento on-line de disciplinas via SIGA e elas ainda não aparecem nas Salas Virtuais
 
 Primeiro, tenha conhecimento que o requerimento não é uma garantia de que você terá as disciplinas solicitadas. Para saber o resultado do seu requerimento, acesse [essa página](../siga/conferenciamatricula.md)
-Depois, se você já notou que a disciplina consta no seu histórico, basta aguardar até 24h para obter as disciplinas no AVA.
+Depois, se você já notou que a disciplina consta no seu histórico, basta aguardar até 24h para obter as disciplinas nas Salas Virtuais.
 
-> Fiz o ajuste do coordenador via Protocolo Virtual do Aluno e as disciplinas ainda não aparecem no AVA
+> Fiz o ajuste do coordenador via Protocolo Virtual do Aluno e as disciplinas ainda não aparecem nas Salas Virtuais
 
-Se a sua solicitação foi deferida pela coordenação basta aguardar até 24h para obter as disciplinas no AVA.
+Se a sua solicitação foi deferida pela coordenação basta aguardar até 24h para obter as disciplinas nas Salas Virtuais.
 
 ## Sou ex-aluno
 

@@ -16,10 +16,12 @@ Se você não clicar na última mensagem recebida ou se por acaso a mensagem que
 
 É recomendável apagar todos os e-mails automáticos sobre a alteração de senha que você já tenha recebido e realizar o procedimento mais uma vez. Note que o e-mail pode demorar de 5 a 15min para chegar, logo, é necessário aguardar.
 
-> Como acesso o AVA - Ambiente Virtual de Aprendizagem?
+> Como acesso as Salas  Virtuais das disciplinas que estou cursando?
 
-O acesso ao AVA deve ser feito obrigatoriamente via Portal de Sistemas Integrados.
-Então você deve acessar e se autenticar no Portal de Sistemas Integrados, buscar por 'AVA' e clicar no resultado 'AVA - Ambiente Virtual de Aprendizagem - Graduação'.
+O acesso às Salas Virtuais pode ser feito tanto pelo Portal Acadêmico quanto pelo aplicativo móvel:
+
+* via o Portal Acadêmico -> acesse Portal de Sistemas Integrados, busque por 'Portal Acadêmico' e depois clique em 'Salas Virtuais'.
+* via aplicativo -> baixe o aplicativo 'UFMT - AVA Graduação', disponível nas lojas de aplicativo para celular, e autentique-se informando seu RGA e a mesma senha do Portal de Sistemas Integrados.
 
 > Não estou recebendo as mensagens para recuperar a senha do Portal de Sistemas Integrados
 

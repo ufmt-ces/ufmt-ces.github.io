@@ -18,5 +18,5 @@ Os dados de contato com a UFMT podem ser encontrados no endereço <https://www.u
 
 ## Contatos de suporte
 
-- Dúvidas quanto a utilização do **AVA de Graduação Presencial** e de **Pós-Graduação**: <apoio@ufmt.br>
-- Dúvidas quanto a criação do **e-mail institucional** e utilização do **CAFé**: <suporte-email@ufmt.br>
+- Dúvidas quanto a criação do **e-mail institucional**: <https://docs.sti.ufmt.br/gmrl/ajuda/google-workspace>
+- Utilização do **CAFé**: <https://docs.sti.ufmt.br/smrt/ajuda/cafe>

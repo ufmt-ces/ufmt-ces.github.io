@@ -25,30 +25,40 @@ Primeiro você já deve ter o acesso ao Portal de Sistemas Integrados. Depois, b
 
 ## Sou docente
 
-> Não tenho acesso nem ao Portal Acadêmico do Docente nem ao AVA
+> Não tenho acesso nem ao Portal Acadêmico do Docente nem às Salas Virtuais
 
-Primeiro você já deve ter o acesso ao Portal de Sistemas Integrados. Para acessar tanto o Portal Acadêmico do Docente quanto o AVA, a coordenação do curso deve vincular você à uma ou mais disciplinas. Após o vínculo você terá acesso imediato no Portal Acadêmico do Docente. Já no AVA as disciplinas serão registradas em até 24h, de forma automática.
+Primeiro você já deve ter o acesso ao Portal de Sistemas Integrados. Para acessar o Portal Acadêmico do Docente, a coordenação do curso deve vincular você à uma ou mais disciplinas. Após o vínculo você terá acesso imediato no Portal Acadêmico do Docente. Em específico as disciplinas listas nas Salas Virtuais serão registradas em até 24h, de forma automática.
 
-> A coordenação já me registrou como docente da disciplina no SIGA mas ela ainda não consta no meu AVA
+> A coordenação já me registrou como docente da disciplina no SIGA mas ela ainda não aparece na relação de Salas Virtuais
 
-Se fazem mais de 24h que a coordenação registrou a disciplina para você no SIGA, por favor entre em contato conosco: <https://sistemas.ufmt.br/ufmt.sia/Home/Contato>
+Se fazem mais de 24h que a coordenação registrou a disciplina para você no SIGA, por favor entre em contato conosco: <https://sistemas.ufmt.br/ufmt.sia/Home/Contato>.
+
+> Ministrei uma disciplina em semestres anteriores e queria replicar o conteúdo no semestre atual
+
+Basta realizar um backup do conteúdo anterior. O manual desse procedimento está disponível [aqui](../manual/manual_backup_sala_virtual.pdf).
 
 ## Sou a coordenação de curso
 
-> Quero realizar o ajuste de disciplinas como coordenação
+> Quero acessar o SIGA/SGE/Portal Acadêmico como coordenação de curso
 
-Atualmente você pode realizar o ajuste:
+A Secretaria de Gestão de Pessoas (SGP) tem a autonomia de alterar os responsáveis das unidades, inclusive as do tipo coordenação.
+Quando é feita essa alteração, a pessoa responsável, no caso a nova coordenação, terá acesso imediato aos sistemas acadêmicos e poderá selecionar todos os cursos vinculados à coordenação.
+O acesso ao SIGA e às salas virtuais para os cursos dessa coordenação serão concedidos depois da alteração em até 24h, de forma automática.
 
--   pelo **Siga**:
-    -   adicionando mas de uma disciplina do seu curso para um aluno, via Matriculas > Ajuste > Inclusão de Disciplinas para Aluno
-    -   adicionando mais de um aluno em uma disciplina do seu curso, via Matriculas > Ajuste > Inclusão de Alunos em Disciplina
--   pelo **Protocolo Virtual do Aluno** (Portal de Sistemas Integrados > Protocolo Virtual do Aluno), analisando os pedidos realizados pelos e deferindo/indeferindo as solicitações
+> Quero realizar o registro de horários do meu curso
 
-> Quero acessar o SIGA/AVA/SGE como coordenação de curso
+Basta acessar o Portal Acadêmico e clicar em Horário. Certifique-se de que o prazo para Lançamento/Alteração de Horário está aberto com o Registro Escolar do seu campus.
 
-Tanto a Secretaria de Gestão de Pessoas (SGP) quanto a direção do instituto (via Sistema de Gerenciamento de Encargos) tem a autonomia de alterar os responsáveis das unidades, inclusive as do tipo coordenação.
-Quando é feita essa alteração, a pessoa responsável, no caso a nova coordenação, terá acesso imediato aos cursos que estão vinculados à essa coordenação no SGE.
-O acesso ao SIGA e ao AVA para os cursos dessa coordenação serão concedidos depois da alteração em até 24h, de forma automática.
+> Quero realizar a matricula de aluno em disciplinas
+
+Atualmente você pode realizar isso:
+
+-   pelo **Portal Acadêmico**, clicando em Ajuste de Disciplinas. Certifique-se de que o prazo para Ajuste de Matrícula pela Coordenação de Curso está aberto com o Registro Escolar do seu campus;
+-   pelo **Protocolo Virtual do Aluno** (Portal de Sistemas Integrados > Protocolo Virtual do Aluno), analisando os pedidos realizados pelos e deferindo/indeferindo as solicitações;
+
+> Quero realizar o lançamento manual das notas de uma disciplina
+
+Basta acessar o Portal Acadêmico e clicar em Lançamento de Notas. Certifique-se de que o prazo para Ajuste de Matrícula pela Coordenação de Curso está aberto com o Registro Escolar do seu campus.
 
 ## Sou o responsável por uma unidade
 
@@ -89,3 +99,7 @@ Para ter acesso ao SAD - Sistema de Avaliação de Desempenho - entre em contato
 Para ter acesso ao SEI - Sistema Eletrônico de Informações - entre em contato com a Gerência de Protocolo Central, <gpc.proad@ufmt.br>.
 
 Para ter acesso ao SISREQ - Sistema de Requisição de Materiais - entre em contato com <lidiane@ufmt.br> ou <anderson.martins@ufmt.br>.
+
+## Contatos de suporte
+
+- Dúvidas quanto a utilização das Salas Virtuais de **Graduação Presencial** e de **Pós-Graduação**: <suporteava.sti@ufmt.br>
