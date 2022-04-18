@@ -94,11 +94,12 @@ Feita as devidas alterações nesse sistema, você terá acesso imediato aos seg
 - SigServ - Sistema de Gestão de Serviços
 - SGBP - Sistema de Gerenciamento de Bens Patrimoniais
 
-Para ter acesso ao SAD - Sistema de Avaliação de Desempenho - entre em contato com a Comissão de Avaliação de Desempenho e Estágio Probatório, <cadep.sgp@ufmt.br>.
+Já para outros sistemas é necessário o contato com unidades específicas:
 
-Para ter acesso ao SEI - Sistema Eletrônico de Informações - entre em contato com a Gerência de Protocolo Central, <gpc.proad@ufmt.br>.
-
-Para ter acesso ao SISREQ - Sistema de Requisição de Materiais - entre em contato com <lidiane@ufmt.br> ou <anderson.martins@ufmt.br>.
+- SAD - Sistema de Avaliação de Desempenho: entre em contato com a Comissão de Avaliação de Desempenho e Estágio Probatório, <cadep.sgp@ufmt.br>
+- SEI - Sistema Eletrônico de Informações: entre em contato com a Gerência de Protocolo Central, <gpc.proad@ufmt.br>
+- SISREQ - Sistema de Requisição de Materiais e SA - Sistema de Almoxarifado: entre em contato com a Coordenação de Aquisições e Contratos e Serviços
+- SIGConv - Sistema de Gestão de Contratos e Convênios: entre em contato com a Pró-Reitoria de Planejamento
 
 ## Contatos de suporte
 
