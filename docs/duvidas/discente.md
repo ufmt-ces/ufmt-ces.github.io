@@ -56,7 +56,9 @@ Observe que você só conseguirá acesar no período definido no calendário aca
 
 > Como tranco minha matrícula?
 
-Você pode realizar o trancamento acessando o Protocolo Virtual do Aluno (Portal de Sistemas Integrados > Protocolo Virtual do Aluno)
+Primeiro você deve ter um vínculo regular com a UFMT, ou seja, estar com situação de matrícula no semestre atual.
+
+Você pode realizar o trancamento acessando o Protocolo Virtual do Aluno (Portal de Sistemas Integrados > Protocolo Virtual do Aluno).
 
 > Como desisto do meu curso?
 
