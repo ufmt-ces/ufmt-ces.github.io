@@ -111,5 +111,5 @@ Parabéns, agora você esta apto(a) a acessar o Portal de Sistemas Integrados, p
 
 ## 4 - Solicitar atualização do e-mail
 
-Para solicitar a atualização do seu e-mail no nosso cadastro, envie uma mensagem para o endereço <ces@ufmt.br> informando seu nome completo, CPF e o novo e-mail pessoal para cadastro.
+Para solicitar a atualização do seu e-mail no nosso cadastro, envie uma mensagem para o endereço <csi.sti@ufmt.br> informando seu nome completo, CPF e o novo e-mail pessoal para cadastro.
 Você também deve anexar na mensagem um documento válido com foto e um comprovante de endereço residencial.

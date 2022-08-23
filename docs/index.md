@@ -1,6 +1,6 @@
-# Wiki da CES
+# Wiki da Coordenação de Sistemas e Informações
 
-Esse Wiki tem como intuito documentar as dúvidas e questionamentos que a Coordenação de Engenharia de Software (CES) mais recebe.
+Esse Wiki tem como intuito documentar as dúvidas e questionamentos que a Coordenação de Sistemas e Informações (CSI) mais recebe.
 
 ## Sou discente e tenho dúvidas
 

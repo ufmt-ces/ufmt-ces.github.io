@@ -49,17 +49,17 @@ Cabe ao discente:
 * Certificar-se de lançar dentro do prazo estabelecido as ofertas no novo período acadêmico
 
 !!! warning "Atenção"
-    É vital para o bom andamento que as datas sejam respeitadas, em específico quando se trata do lançamento de notas no período que se encerra e ofertas das novas disciplinas. Se os registros estão incompletos ou não foram lançados antes do processamento que a CES realiza, os discentes terão acesso incompleto no requerimento e ajuste de matrícula.
+    É vital para o bom andamento que as datas sejam respeitadas, em específico quando se trata do lançamento de notas no período que se encerra e ofertas das novas disciplinas. Se os registros estão incompletos ou não foram lançados antes do processamento que a CSI realiza, os discentes terão acesso incompleto no requerimento e ajuste de matrícula.
 
 ## Requerimento de matrícula on-line pelo discente
 
 > Como funciona?
 
-A CES realiza um pré-processamento, que consiste em fazer pré-avaliações dos estudantes, como disciplinas concluídas, disciplinas pendentes e estrutura do curso, para permitir que o discente faça o requerimento de matrícula. Isso acontece após o prazo para lançamento de notas e antes do início do requerimento de matrícula.
+A CSI realiza um pré-processamento, que consiste em fazer pré-avaliações dos estudantes, como disciplinas concluídas, disciplinas pendentes e estrutura do curso, para permitir que o discente faça o requerimento de matrícula. Isso acontece após o prazo para lançamento de notas e antes do início do requerimento de matrícula.
 
 Os veteranos dos cursos de regime crédito acessam o sistema de requerimentos e fazem os pedidos das disciplinas que desejam cursar no novo período acadêmico.
 
-Depois da solicitação, os pedidos de matrícula de cada disciplina são processados (pós-processamento), onde a CES analisa cada requerimento e valida o pedido, verificando se não há pendências como pré-requisitos que não foram cursados. As requisições dos discentes com os melhores coeficientes tem preferência no preenchimento das vagas da turma. Do contrário, cada pedido de matrícula recebe uma recusa.
+Depois da solicitação, os pedidos de matrícula de cada disciplina são processados (pós-processamento), onde a CSI analisa cada requerimento e valida o pedido, verificando se não há pendências como pré-requisitos que não foram cursados. As requisições dos discentes com os melhores coeficientes tem preferência no preenchimento das vagas da turma. Do contrário, cada pedido de matrícula recebe uma recusa.
 
 **No caso dos cursos de regime seriado**, os discentes não tem a liberdade de escolher quais disciplinas obrigatórias da nova série querem fazer. Então o pós-processamento tentará realizar a matrícula em todas as disciplinas obrigatórias da nova série, observando as particularidades do regime seriado.
 
@@ -93,11 +93,11 @@ Provavelmente a coordenação do seu curso não ofertou todas as disciplinas que
 
 > A coordenação ofertou as disciplinas que tenho que fazer mas elas não aparecem no meu requerimento
 
-É provável que os lançamentos necessários não tenham sido realizados a tempo, ou seja, antes da CES realizar os pré-processamentos para o requerimento de matrícula. Se seu curso é de regime crédito, aguarde o prazo e tente realizar o ajuste de matrícula
+É provável que os lançamentos necessários não tenham sido realizados a tempo, ou seja, antes da CSI realizar os pré-processamentos para o requerimento de matrícula. Se seu curso é de regime crédito, aguarde o prazo e tente realizar o ajuste de matrícula
 
 > Fiz o pedido mas a disciplina não esta no histórico
 
-Verifique se o prazo para o requerimento de matrícula já está encerrado. Se estiver, você deve guardar o pós-processamento realizado pela CES
+Verifique se o prazo para o requerimento de matrícula já está encerrado. Se estiver, você deve guardar o pós-processamento realizado pela CSI
 
 > Fiz o pedido mas a disciplina não esta no ambiente virtual
 
@@ -114,9 +114,9 @@ Se seu curso é de regime crédito, aguarde o prazo e tente realizar o ajuste de
 
 > Como funciona?
 
-Depois do pós-processamento realizado pela CES, ao fim do período de requerimento, um novo prazo é dado **aos discentes dos cursos de regime de créditos**, para que estes possam ajustar o requerimento, observando as recusas que obtiveram anteriormente. Assim os doscentes podem tentar novamente a matrícula na mesma disciplina em outra turma/curso, a matrícula em outra disciplina ou até a remoção de disciplinas solicitadas anteriomente.
+Depois do pós-processamento realizado pela CSI, ao fim do período de requerimento, um novo prazo é dado **aos discentes dos cursos de regime de créditos**, para que estes possam ajustar o requerimento, observando as recusas que obtiveram anteriormente. Assim os doscentes podem tentar novamente a matrícula na mesma disciplina em outra turma/curso, a matrícula em outra disciplina ou até a remoção de disciplinas solicitadas anteriomente.
 
-Os pedidos de ajuste de cada disciplina são processados (segundo pós-processamento), onde a CES analisa cada requerimento e valida o pedido, da mesma forma que anteriormente,verificando se não há pendências como pré-requisitos que não foram cursados, permitindo que a matrícula na disciplina seja realizada ou registrando uma recusa.
+Os pedidos de ajuste de cada disciplina são processados (segundo pós-processamento), onde a CSI analisa cada requerimento e valida o pedido, da mesma forma que anteriormente,verificando se não há pendências como pré-requisitos que não foram cursados, permitindo que a matrícula na disciplina seja realizada ou registrando uma recusa.
 
 > Quem pode fazer?
 

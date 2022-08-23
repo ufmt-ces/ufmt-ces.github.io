@@ -29,7 +29,7 @@ Verifique se sua conta de e-mail não está com a caixa de entrada cheia. Verifi
 
 > Quero trocar o e-mail para poder recuperar minha senha de acesso ao Portal de Sistemas Integrados
 
-Para solicitar a atualização do seu e-mail no nosso cadastro, envie uma mensagem para o endereço <ces@ufmt.br> informando seu nome completo, CPF e o novo e-mail pessoal para cadastro.
+Para solicitar a atualização do seu e-mail no nosso cadastro, envie uma mensagem para o endereço <csi.sti@ufmt.br> informando seu nome completo, CPF e o novo e-mail pessoal para cadastro.
 Você também deve anexar na mensagem um documento válido com foto e um comprovante de endereço residencial.
 
 > Como solicito uma conta de e-mail da UFMT?

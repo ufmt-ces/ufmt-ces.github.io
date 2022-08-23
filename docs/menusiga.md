@@ -6,7 +6,7 @@ respectivamente o **SIGA** e o **SIPG**.
 ![Tela do SIGA](images/siga.png "SIGA com menu com erro")
 ![Tela do SIPG](images/sipg.png "SIPG com menu com erro")
 
-A CES, não medindo esforços em melhorar o ambiente digital da comunidade acadêmica, esta voltando seu corpo de trabalho no desenvolvimento
+A CSI, não medindo esforços em melhorar o ambiente digital da comunidade acadêmica, esta voltando seu corpo de trabalho no desenvolvimento
 de uma nova versão do Portal Acadêmico, mais adequado com as novas tecnologias e menos suscetível à falhas de interface. Ele já está disponível para os **discentes e docentes** da UFMT. Basta acessar o Portal de Sistemas Integrados e depois buscar por 'portal acadêmico'.
 
 Uma medida paliativa é a configuração do navegador para que este possa exibir corretamente o conteúdo desses sistemas acadêmicos.
