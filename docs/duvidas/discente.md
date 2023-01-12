@@ -68,13 +68,9 @@ Certifique-se de realizar a solicitação pelo mesmo local. Ou seja, se você so
 
 Após a efetivação do desligamento, entre em contato com o registro escolar do seu campus para a emissão da declaração de desistência.
 
-> Como faço meu requerimento on-line de matrícula pelo SIGA em um novo semestre?
+> Como faço meu requerimento on-line de matrícula em um novo semestre?
 
 Acesse as instruções [aqui](../siga/requerimentomatricula.md)
-
-> Como acompanho meu requerimento on-line de matrícula pelo SIGA em um novo semestre?
-
-Acesse as instruções [aqui](../siga/conferenciamatricula.md)
 
 > Perdi o prazo para acessar o requerimento de matrícula e o ajuste de matrícula
 
@@ -82,7 +78,7 @@ Realize sua renovação via protocolo virtual do aluno, que pode ser acessado em
 
 > Fiz o requerimento on-line de disciplinas via SIGA e elas ainda não aparecem nas Salas Virtuais
 
-Primeiro, tenha conhecimento que o requerimento não é uma garantia de que você terá as disciplinas solicitadas. Para saber o resultado do seu requerimento, acesse [essa página](../siga/conferenciamatricula.md)
+Primeiro, tenha conhecimento que o requerimento não é uma garantia de que você terá as disciplinas solicitadas.
 Depois, se você já notou que a disciplina consta no seu histórico, basta aguardar até 24h para obter as disciplinas nas Salas Virtuais.
 
 > Fiz o ajuste do coordenador via Protocolo Virtual do Aluno e as disciplinas ainda não aparecem nas Salas Virtuais

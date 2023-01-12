@@ -1,5 +1,7 @@
 # Renovação do vínculo acadêmico
 
+## O que é?
+
 A cada avanço no período acadêmico os veteranos de graduação presencial da UFMT devem realizar os procedimentos para a renovação do vínculo estudantil.
 
 A não renovação do vínculo acarreta em um trancamento automático e o acumo de trancamentos pode levar ao desligamento do vínculo do discente com a UFMT.
@@ -19,7 +21,7 @@ Para sanar maiores dúvidas sobre o regime e a estrutura do seu curso, por favor
 
 Identifique os papeis e as responsabilidades de cada um envolvido na renovação do vínculo acadêmico.
 
-> Docente, Discente, Coordenação de curso e Coordenação de Engenharia de Software (CES)
+> Docente, Discente, Coordenação de curso e Coordenação de Sistemas e Informações (CSI)
 
 Devem estar cientes dos prazos em calendário acadêmico, em específico:
 
@@ -53,7 +55,7 @@ Cabe ao discente:
 
 ## Requerimento de matrícula on-line pelo discente
 
-> Como funciona?
+### Como funciona?
 
 A CSI realiza um pré-processamento, que consiste em fazer pré-avaliações dos estudantes, como disciplinas concluídas, disciplinas pendentes e estrutura do curso, para permitir que o discente faça o requerimento de matrícula. Isso acontece após o prazo para lançamento de notas e antes do início do requerimento de matrícula.
 
@@ -63,29 +65,44 @@ Depois da solicitação, os pedidos de matrícula de cada disciplina são proces
 
 **No caso dos cursos de regime seriado**, os discentes não tem a liberdade de escolher quais disciplinas obrigatórias da nova série querem fazer. Então o pós-processamento tentará realizar a matrícula em todas as disciplinas obrigatórias da nova série, observando as particularidades do regime seriado.
 
-> Quem pode fazer?
+### Quem pode fazer?
 
-Todos os discente de graduação presencial **veteranos**, ou seja, que ingressaram no período anterior, tanto de cursos de regime crédito quanto de regime seriado
+Todos os discente de graduação presencial **veteranos**, ou seja, que ingressaram no período anterior, tanto de cursos de regime crédito quanto de regime seriado, que não tenham alguma situação de impedimento.
 
-> Como faço?
+### Como faço?
 
-Acesse o Portal Acadêmico e clique em 'Requerimento de Matrícula'. Atualmente você deve informar o seu RGA e a mesma senha registrada no Portal de Sistemas Integrados.
+Acesse o Portal Acadêmico, clique em 'Requerimento de Matrícula' e depois clique no botão 'Iniciar Requerimento'.
+Note que esse botão só estará habilitado durante o prazo definido em calendário acadêmico. 
 
-> Recebi um aviso com acesso negado
+> ![Botão para requerer matricula](../images/requerimento-01.png "Botão para Requerer Matricula")
 
-Verifique se a senha é a mesma utilizada no Portal de Sistemas Integrados e se seu RGA foi digitado corretamente
+> Figura 1 - Botão para solicitar o Requerimento de Matricula
 
-> Recebi um aviso dizendo que meu curso não tem datas definidas para matrícula
+Marque as disciplinas que você deseja cursar, conforme indicado abaixo:
 
-Entre em contato com o registro escolar do seu campus
+> ![Chave para marcar as disciplinas](../images/requerimento-02.png "Chave para marcar a discplina")
 
-> Recebi um aviso de que minha matrícula está bloqueada
+> Figura 2 - Chave para marcar a disciplina
 
-Entre em contato com a coordenação do seu curso. É muito provável que sua matrícula foi bloqueada por você ter extrapolado o tempo de integralização do seu curso
+Observe o horário informado, pois a matrícula não será realizada em disciplinas que tiverem choque de horário.
 
-> Recebi um aviso informando que tenho um plano de estudos cadastrado
+Observe também se você não está quebrando alguma regra da sua estrutura, como solicitar uma disciplina que é dependente de pré-requisitos que você ainda não finalizou.
+Quando estiver satisfeita(o) clique em 'Avançar'.
 
-Entre em contato com a coordenação do seu curso. Com um plano de estudos ativo você não tem liberdade de escolher as disciplinas que quer fazer
+Por fim escolha a ordem das disciplinas que você está solicitando.
+
+> ![Ordem das disciplinas](../images/requerimento-03.png "Ordem das discplinas")
+
+> Figura 3 - Ordem das disciplinas
+
+Note que a ordem é levada em consideração em alguns casos de desempate.
+Por exemplo, se você escolher duas disciplinas que possuem choque de horário, a que tiver a menor ordem será registrada e a outra será recusada.
+Quando estiver satisfeita(o) clique em 'Confirmar' para fazer o registro.
+
+!!! warning "Atenção"
+    Apenas o último requerimento realizado é o que vale. Toda vez que você faz uma alteração e clica em 'Confirmar', o requerimento anterior é descartado e um novo é registrado.
+
+### Tenho dúvidas
 
 > Não estão aparecendo todas as disciplinas que eu tenho que fazer
 
@@ -104,7 +121,7 @@ Verifique se o prazo para o requerimento de matrícula já está encerrado. Se e
 Verifique se as disciplinas requeridas estão no seu histórico. Se estiverem basta aguardar, a disponibilização das salas virtuais é automática e feita em até 24h 
 
 !!! warning "Atenção"
-    É necessário observar que realizar o requerimento ou o ajuste de matricula não é uma garantia de matrícula! Após o pós-processamento você consegue tirar um extrato do seu pedido, acessando SIGA > Documentos > Planilha de Horário c/ Recusas - Regime Crédito
+    É necessário observar que realizar o requerimento ou o ajuste de matricula não é uma garantia de matrícula! É possível listar as disciplinas solicitadas e o resultado do processamento, basta acessar novamente a área de Requerimento de Matrícula após o prazo de solicitação definido em calendário acadêmico.
 
 > Perdi o prazo e não consegui acessar o requerimento de matrícula
 
@@ -112,35 +129,34 @@ Se seu curso é de regime crédito, aguarde o prazo e tente realizar o ajuste de
 
 ## Ajuste de matrícula on-line pelo discente para os discentes de cursos no regime de créditos
 
-> Como funciona?
+### Como funciona?
 
 Depois do pós-processamento realizado pela CSI, ao fim do período de requerimento, um novo prazo é dado **aos discentes dos cursos de regime de créditos**, para que estes possam ajustar o requerimento, observando as recusas que obtiveram anteriormente. Assim os doscentes podem tentar novamente a matrícula na mesma disciplina em outra turma/curso, a matrícula em outra disciplina ou até a remoção de disciplinas solicitadas anteriomente.
 
 Os pedidos de ajuste de cada disciplina são processados (segundo pós-processamento), onde a CSI analisa cada requerimento e valida o pedido, da mesma forma que anteriormente,verificando se não há pendências como pré-requisitos que não foram cursados, permitindo que a matrícula na disciplina seja realizada ou registrando uma recusa.
 
-> Quem pode fazer?
+### Quem pode fazer?
 
 Todos os discente de graduação presencial **veteranos**, ou seja, que ingressaram no período anterior, **apenas** dos cursos no regime de créditos
 
-> Como faço?
+### Como faço?
 
-Acesse o Portal Acadêmico e clique em 'Ajuste de Matrícula'. Atualmente você deve informar o seu RGA e a mesma senha registrada no Portal de Sistemas Integrados.
+Acesse o Portal Acadêmico e clique em 'Ajuste de Matrícula'.
+
+### Tenho dúvidas
 
 > Perdi o prazo e não consegui acessar o ajuste de matrícula
 
 Aguarde o prazo e tente realizar o ajuste de matrícula via protocolo virtual do aluno. É possível realizar o pedido via protocolo virtual tanto para alunos de cursos de regime crédito quanto para cursos de regime seriado.
 
 
-## Saiba mais:
+## Saiba mais
 
 * [Resolução CONSEPE n.º 68, de 24/07/2014](http://sistemas.ufmt.br/ufmt.resolucao/OpenResolucao.aspx?resolucaoUID=8626&ano=2014&tipoUID=2)
 * [Resolução CONSEPE nº 14, de 01/02/1999](http://sistemas.ufmt.br/ufmt.resolucao/OpenResolucao.aspx?resolucaoUID=3855&ano=1999&tipoUID=2)
 * [Calendário Acadêmico](https://www.ufmt.br/unidade/estudante/graduacao)
 
-## Entre em contato:
+### Entre em contato
 
 * [Por telefone ou e-mails](https://www.ufmt.br/telefones)
-
-## Críticas e Sugestões?
-
-Encaminhe uma mensagem para <ces.sti@ufmt.br>
+* [Pelo canal de Suporte](https://suporte.ufmt.br)
