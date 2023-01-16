@@ -1,6 +1,6 @@
-# Portal Acadêmico - Docente
+# Portal Acadêmico - Docente 
 
-O Portal Acadêmico da UFMT é o resumo dos esforços da STI em melhorar os serviços disponibilizados à comunidade acadêmica. Essa ferramenta tem por objetivo substituir gradualmente o atual Sistema de Informações de Gestão Acadêmica (SIGA) e foi desenvolvida observando diversas criticas e opiniões. Visa também a garantir uma maior acessibilidade às ferramentas dessa instituição e compatibilidade com os navegadores de internet e aparelhos móveis.
+O Portal Acadêmico da UFMT é o resumo dos esforços da STI em melhorar os serviços disponibilizados à comunidade acadêmica. Essa ferramenta tem por objetivo substituir gradualmente o atual Sistema de Informações de Gestão Acadêmica (SIGA) e foi desenvolvida observando diversas críticas e opiniões. Visa também garantir uma maior acessibilidade às ferramentas desta instituição e compatibilidade com os navegadores de *internet* e aparelhos móveis.
 
 Atualmente o Portal Acadêmico do Docente conta com as seguintes Ferramentas do Professor:
 
@@ -18,6 +18,10 @@ E com as seguintes consultas:
 
 Para acessar o Portal Acadêmico basta que o docente acesse o Portal de Sistemas Integrados e busque por 'portal' ou 'pa' e clique no resultado, 'PA - Portal Acadêmico'.
 
+## Página inicial (Home)
+
+Na página inicial do sistema, é possível visualizar algumas opções que são competência do professor realizá-las, como lançamento de frequências, lançamento de notas, o plano de ensino, entre outras...
+
 ## Salas Virtuals
 
 Nesse local o docente tem acesso às disciplinas vinculadas à ele no Ambiente Virtual de Aprendizagem.
@@ -25,18 +29,44 @@ Nesse local o docente tem acesso às disciplinas vinculadas à ele no Ambiente V
 !!! warning "Atenção"
     A partir do semestre 2021/2 a UFMT passará a utilizar uma nova versão do ambiente de salas de aulas virtuais. Infelizmente a nova versão não é nativamente compatível com a atualmente utilizada, mas a versão atual ficará disponível para consultas e recuperação de backups, podendo estes backups serem restaurados pelos docentes para sua nova versão.
 
-## Diários de Frequência
+## Lançamento de Frequências
 
-> ![Tela completa do Diário de Frequência](../images/padocente_frequencia01.png "Tela do Diário de Frequência, com os detalhes da disciplina e os botões para lançar frequência e conteúdo, imprimir o diário em branco, imprimir diário preenchido e importar a frequência via planilha eletrônica")
-> Figura 1 - Tela completa do Diário de Frequência
+Nesta tela é possível selecionar a turma por interstício da disciplina ofertada pelo docente. Clicando em "Lançar Frequência" na disciplina que o professor quer adicionar o diário da disciplina, é possível registrar alguns dados.
 
-Semelhante a funcionalidade que existia anteriormente, nessa tela o docente consegue lançar as frequências da turma, imprimir o diário de frequência em branco ou preenchido e importar a frequência via planilha eletrônica (Excel). Para ter mais detalhes de como realizar a importação via planilha eletrônica, basta clicar [aqui](notasexcel.md).
+> ![Tela completa do Diário de Frequência](../images/lancamento_de_frequencia.png "Tela do Lançamento de Frequências, com os detalhes da disciplina e os botões para lançar frequência das disciplinas por semestre")
+> Figura 1 - Tela completa do Lançamento de Frequências
+
+## Detalhes da Disciplina
+
+Nos **detalhes da disciplina** é possível visualizar os detalhes da disciplina, cadastrar as aulas ministradas, como também imprimir o diário em branco, o diário preenchido e também importar a frequência via planilha eletrônica (no formato xls). Para ter mais detalhes de como realizar a importação via planilha eletrônica, basta clicar [aqui](notasexcel.md).
+
+> ![Tela dos Detalhes da Disciplina](../images/detalhes_da_disciplina.png)
+
+
+## Lançamento de aulas ministradas
+
+Nesta tela o professor deve adicionar os dados relativo a aula ministrada. **Os dados que são obrigatório são: data, carga horário da aula, horário de início e o conteúdo programático ministrado**; o docente pode também adicionar algumas informações adicionais, não sendo um campo obrigatório.
+
+> ![Tela para adicionar as informações da aula ministrada](../images/lancamento_aula_ministrada.png "Tela para cadastrar os dados da disciplina: data, carga horária, hora de inicio, conteúdo programático ministrado e informações adicionais")
+
+
+Mais em baixo, é possível visualizar a lista de alunos que estão matriculados na disciplia. Para informar a ausência de um discente, basta marcar a caixa de "Registrar Faltas", também é possível informar as "Horas de Atraso" e adicionar as seguintes **opções na presença do aluno**:
+
+* Vincular: Aluno participa da listagem
+* Desvincular: Aluno não participa dessa listagem
+* Regime Domiciliar: Aluno afastado via processo
+
+> ![Tela da lista de alunos na disciplina](../images/lista_de_alunos.png "Tela com o RGA, Nome e opções da presença do aluno")
+
+Por fim, basta clicar no botão "Salvar", que a aula ministrada será adicionada na carga horária da disciplina.
+
 
 ## Lançamento de Notas
 
+Nesta tela o sistema separa as disciplinas por semestre, basta clicar na seta da direita e as disciplinas lecionadas pelo docente no interstício será exibida.
 
-> ![Tela completa do Lançamento de Notas](../images/padocente_notas01.png "Tela do Lançamento de Notas, com os detalhes da disciplina, a composição da média avaliativa e os botões para alterar o tipo de média e a média mínima para aprovação, as avaliações cadastradas e os botões para cadastrar nova avaliação, visualizar o relatório de notas e faltas e importar a frequência via planilha eletrônica")
-> Figura 1 - Tela completa do Lançamento de Notas
+> ![Tela completa do Lançamento de Notas](../images/lancamento_de_notas.png "Tela do Lançamento de Notas - Professor. Separados por interstício e calendário a direita")
+> Figura X - Tela completa do Lançamento de Notas
 
 Semelhante a funcionalidade que existia anteriormente, nessa tela o docente consegue lançar as atividades com nota da turma, cadastrando uma nova avaliação, bem ocmo visualizar o relatório de notas e faltas e importar as notas via planilha eletrônica (Excel).
 
