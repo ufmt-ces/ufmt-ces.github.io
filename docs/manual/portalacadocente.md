@@ -118,7 +118,7 @@ Semelhante as demais telas, ao clicar em **Plano de Ensino** o(a) docente será 
 
 > Figura 10 - Plano de ensino
 
-select * from dbo.SigaControleTempoIntegralizacaoAlunos where RGAALUNO = 201412402011Selecionando a disciplina, o sistema abre um **formulário** que deve ser preenchido com todos os dados necessário sobre o plano de ensino da referida disciplina.
+Selecionando a disciplina, o sistema abre um **formulário** que deve ser preenchido com todos os dados necessário sobre o plano de ensino da referida disciplina.
 
 > ![Formulário do plano de ensino](../images/plano_de_ensino_form.png "Formulário do plano de ensino")
 
